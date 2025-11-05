@@ -1,0 +1,33 @@
+{
+  "UEFA": [],
+  "CONMEBOL": [],
+  "CONCACAF": [],
+  "AFC": [],
+  "CAF": [],
+  "OFC": [],
+  "Other": [
+    {
+      "id": 2000,
+      "area": {
+        "id": 2267,
+        "name": "World",
+        "code": "INT",
+        "flag": null
+      },
+      "name": "FIFA World Cup",
+      "code": "WC",
+      "type": "CUP",
+      "emblem": "https://crests.football-data.org/qatar.png",
+      "plan": "TIER_ONE",
+      "currentSeason": {
+        "id": 2398,
+        "startDate": "2026-06-11",
+        "endDate": "2026-07-19",
+        "currentMatchday": 1,
+        "winner": null
+      },
+      "numberOfAvailableSeasons": 23,
+      "lastUpdated": "2024-09-13T17:04:20Z"
+    }
+  ]
+}

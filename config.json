@@ -1,0 +1,306 @@
+{
+    "data_sources": {
+        "fifa_rankings": {
+            "api_url": "https://api.fifa.com/ranking/fifa",
+            "fallback_file": "fifa_rankings.json",
+            "update_frequency": "weekly"
+        },
+        "match_results": {
+            "api_url": "https://api.fifa.com/matches",
+            "fallback_file": "match_results.json",
+            "update_frequency": "daily"
+        },
+        "group_standings": {
+            "api_url": "https://api.fifa.com/standings",
+            "fallback_file": "group_standings.json",
+            "update_frequency": "daily"
+        },
+        "confederations": {
+            "UEFA": {
+                "name": "Union of European Football Associations",
+                "primary_api": "https://api.uefa.com",
+                "backup_api": "https://api.football-data.org/v4",
+                "free_source": "https://www.uefa.com",
+                "competitions": [
+                    "UEFA Nations League",
+                    "UEFA Euro Qualifiers",
+                    "UEFA Champions League"
+                ],
+                "api_key_required": true,
+                "rate_limit": "1000/hour",
+                "data_quality": "excellent"
+            },
+            "CAF": {
+                "name": "Confederation of African Football",
+                "primary_api": "https://api.cafonline.com",
+                "backup_api": "https://api.flashscore.com",
+                "free_source": "https://www.cafonline.com",
+                "competitions": [
+                    "Africa Cup of Nations",
+                    "CAF Champions League",
+                    "World Cup Qualifiers"
+                ],
+                "api_key_required": true,
+                "rate_limit": "500/hour",
+                "data_quality": "good"
+            },
+            "CONCACAF": {
+                "name": "Confederation of North, Central America and Caribbean Association Football",
+                "primary_api": "https://api.concacaf.com",
+                "backup_api": "https://api.fotmob.com",
+                "free_source": "https://www.concacaf.com",
+                "competitions": [
+                    "CONCACAF Nations League",
+                    "Gold Cup",
+                    "World Cup Qualifiers"
+                ],
+                "api_key_required": true,
+                "rate_limit": "800/hour",
+                "data_quality": "good"
+            },
+            "AFC": {
+                "name": "Asian Football Confederation",
+                "primary_api": "https://api.the-afc.com",
+                "backup_api": "https://api.sofascore.com",
+                "free_source": "https://www.the-afc.com",
+                "competitions": [
+                    "AFC Asian Cup",
+                    "AFC Champions League",
+                    "World Cup Qualifiers"
+                ],
+                "api_key_required": true,
+                "rate_limit": "600/hour",
+                "data_quality": "good"
+            },
+            "CONMEBOL": {
+                "name": "Confederation of South American Football",
+                "primary_api": "https://api.conmebol.com",
+                "backup_api": "https://api.football-data.org/v4",
+                "free_source": "https://www.conmebol.com",
+                "competitions": [
+                    "Copa América",
+                    "Copa Libertadores",
+                    "World Cup Qualifiers"
+                ],
+                "api_key_required": true,
+                "rate_limit": "1000/hour",
+                "data_quality": "excellent"
+            },
+            "OFC": {
+                "name": "Oceania Football Confederation",
+                "primary_api": "https://api.oceaniafootball.com",
+                "backup_api": "https://api.flashscore.com",
+                "free_source": "https://www.oceaniafootball.com",
+                "competitions": [
+                    "OFC Nations Cup",
+                    "OFC Champions League",
+                    "World Cup Qualifiers"
+                ],
+                "api_key_required": true,
+                "rate_limit": "300/hour",
+                "data_quality": "moderate"
+            }
+        },
+        "third_party_apis": {
+            "football_data": {
+                "name": "Football-Data.org",
+                "api_url": "https://api.football-data.org/v4",
+                "free_tier": "10 requests/minute",
+                "paid_tier": "1000 requests/minute",
+                "coverage": [
+                    "UEFA",
+                    "CONMEBOL",
+                    "CONCACAF",
+                    "AFC"
+                ],
+                "cost": "$20-100/month"
+            },
+            "api_football": {
+                "name": "API-Football",
+                "api_url": "https://v3.football.api-sports.io",
+                "free_tier": "100 requests/day",
+                "paid_tier": "10000 requests/day",
+                "coverage": [
+                    "All confederations"
+                ],
+                "cost": "$10-50/month"
+            },
+            "sofascore": {
+                "name": "SofaScore",
+                "api_url": "https://api.sofascore.com",
+                "free_tier": "Limited",
+                "paid_tier": "Full access",
+                "coverage": [
+                    "All confederations"
+                ],
+                "cost": "$50-200/month"
+            },
+            "flashscore": {
+                "name": "FlashScore",
+                "api_url": "https://api.flashscore.com",
+                "free_tier": "Basic data",
+                "paid_tier": "Full access",
+                "coverage": [
+                    "All confederations"
+                ],
+                "cost": "$30-150/month"
+            },
+            "espn": {
+                "name": "ESPN API",
+                "api_url": "https://site.api.espn.com/apis/site/v2/sports/soccer",
+                "free_tier": "Limited",
+                "paid_tier": "Full access",
+                "coverage": [
+                    "All confederations"
+                ],
+                "cost": "$100-500/month"
+            }
+        }
+    },
+    "probability_model": {
+        "base_factors": {
+            "fifa_ranking_weight": 0.4,
+            "confederation_strength_weight": 0.3,
+            "recent_form_weight": 0.2,
+            "home_advantage_weight": 0.1
+        },
+        "confederation_multipliers": {
+            "UEFA": 1.2,
+            "CONMEBOL": 1.1,
+            "AFC": 0.9,
+            "CAF": 0.8,
+            "CONCACAF": 0.7,
+            "OFC": 0.3
+        },
+        "match_impact": {
+            "win": 5,
+            "draw": 1,
+            "loss": -3,
+            "big_win": 8,
+            "big_loss": -5
+        }
+    },
+    "update_schedule": {
+        "qualifiers": "daily",
+        "group_stage": "after_each_matchday",
+        "knockout_stage": "after_each_match"
+    },
+    "api_keys": {
+        "fifa": "c6489c1801bf414881eb20763cdbc4ae",
+        "uefa": "YOUR_UEFA_API_KEY",
+        "caf": "YOUR_CAF_API_KEY",
+        "concacaf": "YOUR_CONCACAF_API_KEY",
+        "afc": "YOUR_AFC_API_KEY",
+        "conmebol": "YOUR_CONMEBOL_API_KEY",
+        "ofc": "YOUR_OFC_API_KEY",
+        "football_data": "c6489c1801bf414881eb20763cdbc4ae",
+        "api_football": "f38f64d491bfdc72316184256ecdec86",
+        "sofascore": "YOUR_SOFASCORE_API_KEY",
+        "flashscore": "YOUR_FLASHSCORE_API_KEY",
+        "espn": "YOUR_ESPN_API_KEY"
+    },
+    "data_collection_priority": {
+        "high_priority": {
+            "update_frequency": "daily",
+            "data_types": [
+                "match_results",
+                "group_standings",
+                "fifa_rankings"
+            ],
+            "confederations": [
+                "UEFA",
+                "CONMEBOL",
+                "AFC",
+                "CAF",
+                "CONCACAF",
+                "OFC"
+            ]
+        },
+        "medium_priority": {
+            "update_frequency": "weekly",
+            "data_types": [
+                "team_form",
+                "head_to_head",
+                "injury_reports"
+            ],
+            "confederations": [
+                "UEFA",
+                "CONMEBOL",
+                "AFC"
+            ]
+        },
+        "low_priority": {
+            "update_frequency": "monthly",
+            "data_types": [
+                "historical_performance",
+                "tactical_analysis",
+                "weather_data"
+            ],
+            "confederations": [
+                "UEFA",
+                "CONMEBOL"
+            ]
+        }
+    },
+    "fallback_strategy": {
+        "primary_failure": "Use backup API",
+        "backup_failure": "Use free source with web scraping",
+        "all_failures": "Use cached data with warning",
+        "cache_duration": "24 hours"
+    },
+    "world_cup_2026_qualification": {
+        "total_teams": 209,
+        "host_countries": [
+            "USA",
+            "Canada",
+            "Mexico"
+        ],
+        "total_spots": 48,
+        "confederations": {
+            "CONCACAF": {
+                "teams": 35,
+                "spots": "3-4",
+                "format": "Multi-stage (preliminary rounds, groups, playoffs)",
+                "playoff": "4th place vs OFC winner (if applicable)"
+            },
+            "UEFA": {
+                "teams": 53,
+                "spots": 13,
+                "format": "9 groups, winners qualify directly, top 8 second-place teams play for 4 remaining spots",
+                "playoff": "Internal playoffs for 4 spots"
+            },
+            "AFC": {
+                "teams": 43,
+                "spots": "4-5",
+                "format": "Multi-stage (preliminary rounds, groups, playoffs)",
+                "playoff": "5th place vs CONMEBOL 5th place (if applicable)"
+            },
+            "CAF": {
+                "teams": 52,
+                "spots": 5,
+                "format": "Multi-stage (preliminary rounds, groups, playoffs)",
+                "playoff": null
+            },
+            "CONMEBOL": {
+                "teams": 9,
+                "spots": "4-5",
+                "format": "Simple round-robin: all 9 teams play each other twice (home & away), top 4 qualify directly",
+                "playoff": "5th place vs AFC 5th place (if applicable) or OFC winner"
+            },
+            "OFC": {
+                "teams": 11,
+                "spots": "0-1",
+                "format": "Multi-stage tournament",
+                "playoff": "Winner vs CONCACAF 4th place or CONMEBOL 5th place"
+            }
+        },
+        "geographic_exceptions": {
+            "Australia": "AFC",
+            "Israel": "UEFA",
+            "Kazakhstan": "UEFA",
+            "Guyana": "CONCACAF"
+        },
+        "qualification_timeline": "~3 years, all teams qualify by November of year before World Cup",
+        "final_draw": "Teams split into 4 pots based on FIFA rankings and geographical locations"
+    }
+}

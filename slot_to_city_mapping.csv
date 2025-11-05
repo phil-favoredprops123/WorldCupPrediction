@@ -1,0 +1,49 @@
+match_number,group,date,time,city,stadium,stage,round,team1,team2,venue_capacity,timezone,transportation_notes
+1,A,June 11 2026,20:00,Mexico City,Estadio Azteca,Group Stage,Matchday 1,TBD,TBD,87000,CST,Metro Line 2 to Estadio Azteca
+2,A,June 11 2026,17:00,Guadalajara,Estadio Akron,Group Stage,Matchday 1,TBD,TBD,50000,CST,Shuttle service from city center
+3,B,June 12 2026,20:00,Toronto,BMO Field,Group Stage,Matchday 1,TBD,TBD,30000,EST,TTC Line 1 to Exhibition Place
+4,D,June 12 2026,17:00,Los Angeles,SoFi Stadium,Group Stage,Matchday 1,TBD,TBD,70000,PST,Metro C Line to Hawthorne/Lennox
+5,C,June 13 2026,20:00,Boston,Gillette Stadium,Group Stage,Matchday 1,TBD,TBD,65878,EST,MBTA Commuter Rail from South Station
+6,D,June 13 2026,17:00,Vancouver,BC Place,Group Stage,Matchday 1,TBD,TBD,54500,PST,SkyTrain to Stadium-Chinatown
+7,C,June 13 2026,14:00,East Rutherford,MetLife Stadium,Group Stage,Matchday 1,TBD,TBD,82500,EST,NJ Transit to Secaucus Junction
+8,B,June 13 2026,11:00,Santa Clara,Levi's Stadium,Group Stage,Matchday 1,TBD,TBD,68500,PST,VTA Light Rail to Great America
+9,E,June 14 2026,20:00,Philadelphia,Lincoln Financial Field,Group Stage,Matchday 1,TBD,TBD,69596,EST,SEPTA Broad Street Line
+10,E,June 14 2026,17:00,Houston,NRG Stadium,Group Stage,Matchday 1,TBD,TBD,72220,CST,Metro Rail Red Line to Fannin South
+11,F,June 14 2026,14:00,Dallas,AT&T Stadium,Group Stage,Matchday 1,TBD,TBD,80000,CST,Shuttle from downtown Dallas
+12,F,June 14 2026,11:00,Monterrey,Estadio BBVA,Group Stage,Matchday 1,TBD,TBD,53000,CST,Metro Line 1 to Universidad
+13,G,June 15 2026,20:00,Miami,Hard Rock Stadium,Group Stage,Matchday 1,TBD,TBD,65326,EST,Metrorail to Palmetto then shuttle
+14,G,June 15 2026,17:00,Atlanta,Mercedes-Benz Stadium,Group Stage,Matchday 1,TBD,TBD,71000,EST,MARTA to Vine City or GWCC
+15,H,June 15 2026,14:00,Seattle,Lumen Field,Group Stage,Matchday 1,TBD,TBD,69000,PST,Link Light Rail to Stadium Station
+16,H,June 15 2026,11:00,Kansas City,Arrowhead Stadium,Group Stage,Matchday 1,TBD,TBD,76416,CST,Shuttle service from downtown KC
+73,Round of 32,June 28 2026,20:00,Los Angeles,SoFi Stadium,Knockout Stage,Round of 32,TBD,TBD,70000,PST,Metro C Line to Hawthorne/Lennox
+74,Round of 32,June 29 2026,20:00,Boston,Gillette Stadium,Knockout Stage,Round of 32,TBD,TBD,65878,EST,MBTA Commuter Rail from South Station
+75,Round of 32,June 29 2026,17:00,Monterrey,Estadio BBVA,Knockout Stage,Round of 32,TBD,TBD,53000,CST,Metro Line 1 to Universidad
+76,Round of 32,June 29 2026,14:00,Houston,NRG Stadium,Knockout Stage,Round of 32,TBD,TBD,72220,CST,Metro Rail Red Line to Fannin South
+77,Round of 32,June 30 2026,20:00,East Rutherford,MetLife Stadium,Knockout Stage,Round of 32,TBD,TBD,82500,EST,NJ Transit to Secaucus Junction
+78,Round of 32,June 30 2026,17:00,Dallas,AT&T Stadium,Knockout Stage,Round of 32,TBD,TBD,80000,CST,Shuttle from downtown Dallas
+79,Round of 32,June 30 2026,14:00,Mexico City,Estadio Azteca,Knockout Stage,Round of 32,TBD,TBD,87000,CST,Metro Line 2 to Estadio Azteca
+80,Round of 32,July 1 2026,20:00,Atlanta,Mercedes-Benz Stadium,Knockout Stage,Round of 32,TBD,TBD,71000,EST,MARTA to Vine City or GWCC
+81,Round of 32,July 1 2026,17:00,Santa Clara,Levi's Stadium,Knockout Stage,Round of 32,TBD,TBD,68500,PST,VTA Light Rail to Great America
+82,Round of 32,July 1 2026,14:00,Seattle,Lumen Field,Knockout Stage,Round of 32,TBD,TBD,69000,PST,Link Light Rail to Stadium Station
+83,Round of 32,July 2 2026,20:00,Toronto,BMO Field,Knockout Stage,Round of 32,TBD,TBD,30000,EST,TTC Line 1 to Exhibition Place
+84,Round of 32,July 2 2026,17:00,Los Angeles,SoFi Stadium,Knockout Stage,Round of 32,TBD,TBD,70000,PST,Metro C Line to Hawthorne/Lennox
+85,Round of 32,July 2 2026,14:00,Vancouver,BC Place,Knockout Stage,Round of 32,TBD,TBD,54500,PST,SkyTrain to Stadium-Chinatown
+86,Round of 32,July 3 2026,20:00,Miami,Hard Rock Stadium,Knockout Stage,Round of 32,TBD,TBD,65326,EST,Metrorail to Palmetto then shuttle
+87,Round of 32,July 3 2026,17:00,Kansas City,Arrowhead Stadium,Knockout Stage,Round of 32,TBD,TBD,76416,CST,Shuttle service from downtown KC
+88,Round of 32,July 3 2026,14:00,Dallas,AT&T Stadium,Knockout Stage,Round of 32,TBD,TBD,80000,CST,Shuttle from downtown Dallas
+89,Round of 16,July 4 2026,18:00,Philadelphia,Lincoln Financial Field,Knockout Stage,Round of 16,TBD,TBD,69596,EST,SEPTA Broad Street Line
+90,Round of 16,July 4 2026,20:00,Houston,NRG Stadium,Knockout Stage,Round of 16,TBD,TBD,72220,CST,Metro Rail Red Line to Fannin South
+91,Round of 16,July 5 2026,15:00,East Rutherford,MetLife Stadium,Knockout Stage,Round of 16,TBD,TBD,82500,EST,NJ Transit to Secaucus Junction
+92,Round of 16,July 5 2026,18:00,Mexico City,Estadio Azteca,Knockout Stage,Round of 16,TBD,TBD,87000,CST,Metro Line 2 to Estadio Azteca
+93,Round of 16,July 6 2026,20:00,Dallas,AT&T Stadium,Knockout Stage,Round of 16,TBD,TBD,80000,CST,Shuttle from downtown Dallas
+94,Round of 16,July 6 2026,15:00,Seattle,Lumen Field,Knockout Stage,Round of 16,TBD,TBD,69000,PST,Link Light Rail to Stadium Station
+95,Round of 16,July 7 2026,18:00,Atlanta,Mercedes-Benz Stadium,Knockout Stage,Round of 16,TBD,TBD,71000,EST,MARTA to Vine City or GWCC
+96,Round of 16,July 7 2026,20:00,Vancouver,BC Place,Knockout Stage,Round of 16,TBD,TBD,54500,PST,SkyTrain to Stadium-Chinatown
+97,Quarter-final,July 9 2026,20:00,Boston,Gillette Stadium,Knockout Stage,Quarter-final,TBD,TBD,65878,EST,MBTA Commuter Rail from South Station
+98,Quarter-final,July 10 2026,20:00,Los Angeles,SoFi Stadium,Knockout Stage,Quarter-final,TBD,TBD,70000,PST,Metro C Line to Hawthorne/Lennox
+99,Quarter-final,July 11 2026,18:00,Miami,Hard Rock Stadium,Knockout Stage,Quarter-final,TBD,TBD,65326,EST,Metrorail to Palmetto then shuttle
+100,Quarter-final,July 11 2026,21:00,Kansas City,Arrowhead Stadium,Knockout Stage,Quarter-final,TBD,TBD,76416,CST,Shuttle service from downtown KC
+101,Semi-final,July 14 2026,20:00,Dallas,AT&T Stadium,Knockout Stage,Semi-final,TBD,TBD,80000,CST,Shuttle from downtown Dallas
+102,Semi-final,July 15 2026,20:00,Atlanta,Mercedes-Benz Stadium,Knockout Stage,Semi-final,TBD,TBD,71000,EST,MARTA to Vine City or GWCC
+103,Bronze Final,July 18 2026,20:00,Miami,Hard Rock Stadium,Knockout Stage,Third-Place Playoff,TBD,TBD,65326,EST,Metrorail to Palmetto then shuttle
+104,Final,July 19 2026,18:00,East Rutherford,MetLife Stadium,Knockout Stage,Final,TBD,TBD,82500,EST,NJ Transit to Secaucus Junction

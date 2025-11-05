@@ -1,0 +1,27 @@
+2025-11-04 21:45:41,263 - INFO - Starting intelligent team collection
+2025-11-04 21:45:41,264 - INFO - Max requests: 100, Current: 0
+2025-11-04 21:45:41,264 - INFO - 
+=== Strategy 1: Known League IDs ===
+2025-11-04 21:45:41,264 - INFO - 
+Trying AFC (League 358)...
+2025-11-04 21:45:44,701 - INFO - 
+Trying CAF (League 359)...
+2025-11-04 21:45:48,070 - INFO - 
+Trying CONCACAF (League 360)...
+2025-11-04 21:45:51,475 - INFO - 
+Trying CONMEBOL (League 361)...
+2025-11-04 21:45:54,795 - INFO - 
+Trying UEFA (League 363)...
+2025-11-04 21:45:58,229 - INFO - 
+Trying OFC (League 364)...
+2025-11-04 21:46:01,610 - INFO - 
+=== Strategy 2: Search for Qualifier Leagues ===
+2025-11-04 21:46:02,287 - INFO - 
+=== Updating CSV ===
+2025-11-04 21:46:02,287 - INFO - 
+============================================================
+2025-11-04 21:46:02,287 - INFO - Collection complete!
+2025-11-04 21:46:02,287 - INFO - Requests used: 76/100
+2025-11-04 21:46:02,287 - INFO - Total teams found: 0
+2025-11-04 21:46:02,287 - INFO - New teams added: None
+2025-11-04 21:46:02,287 - INFO - ============================================================
