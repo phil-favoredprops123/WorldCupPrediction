@@ -159,15 +159,18 @@ def update_team_slot_probabilities() -> pd.DataFrame:
         for confed, message in errors.items():
             logger.warning("Failed to collect %s standings: %s", confed, message)
 
-    rows: List[Dict[str, object]] = HOST_ROWS.copy()
+    # Start with host teams
+    rows: List[Dict[str, object]] = []
 
     for confed, groups in data.items():
         for group in groups:
             for entry in group.entries:
                 rows.append(build_team_row(confed, group.group_name, entry))
 
+
     if not rows:
         raise RuntimeError("No standings rows were collected; aborting CSV update.")
+    rows = HOST_ROWS + rows
 
     df = pd.DataFrame(rows, columns=OUTPUT_COLUMNS)
     df.to_csv(OUTPUT_CSV, index=False)
