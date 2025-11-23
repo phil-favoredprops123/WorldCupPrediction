@@ -78,6 +78,16 @@ def run_collector_once():
         return False
     return False
 
+def refresh_probabilities():
+    """Regenerate team_slot_probabilities.csv via ESPN scrapers."""
+    try:
+        from update_team_slot_probabilities import update_team_slot_probabilities
+        update_team_slot_probabilities()
+        return True
+    except Exception as e:
+        st.error(f"Standings refresh failed: {e}")
+        return False
+
 # Main app
 st.title("⚽ World Cup 2026 Team Collector")
 st.markdown("---")
@@ -105,6 +115,17 @@ with st.sidebar:
                 st.rerun()
             else:
                 st.error("Collection failed. Check logs for details.")
+    
+    # Standings refresh button
+    if st.button("🔄 Refresh Standings (ESPN)", use_container_width=True):
+        with st.spinner("Fetching latest confederation standings..."):
+            refreshed = refresh_probabilities()
+            if refreshed:
+                st.success("Standings updated!")
+                time.sleep(1)
+                st.rerun()
+            else:
+                st.error("Unable to refresh standings.")
     
     # Progress info
     progress = get_progress()
