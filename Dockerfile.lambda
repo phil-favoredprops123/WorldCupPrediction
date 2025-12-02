@@ -1,0 +1,7 @@
+FROM public.ecr.aws/lambda/python:3.9
+COPY scrapers/requirements_lambda.txt /tmp/
+RUN pip install -r /tmp/requirements_lambda.txt -t /var/task
+COPY scrapers/ /var/task/scrapers/
+
+CMD ["scrapers.lambda_handlers.handler_current_standings"]
+

@@ -1,0 +1,106 @@
+confederation,stage,rank,historical_qual_prob,rank_bucket,ppg_bucket,lookup_level
+AFC,Second Round,1,0.7142857142857143,1,all,rank
+AFC,Second Round,2,0.5714285714285714,2,all,rank
+AFC,Second Round,3,0.0,3-4,all,rank
+AFC,Second Round,4,0.0,3-4,all,rank
+AFC,Second Round,5,0.0,5,all,rank
+AFC,Second Round,6,0.0,6+,all,rank
+CAF,Group Stage,1,0.8863636363636364,1,all,rank
+CAF,Group Stage,2,0.0,2,all,rank
+CAF,Group Stage,3,0.0,3-4,all,rank
+CAF,Group Stage,4,0.0,3-4,all,rank
+CAF,Group Stage,5,0.0,5,all,rank
+CAF,Group Stage,6,0.0,6+,all,rank
+CONCACAF,Second Round,1,0.9090909090909091,1,all,rank
+CONCACAF,Second Round,2,0.6363636363636364,2,all,rank
+CONCACAF,Second Round,3,0.36363636363636365,3-4,all,rank
+CONCACAF,Second Round,4,0.09090909090909091,3-4,all,rank
+CONCACAF,Second Round,5,0.0,5,all,rank
+CONCACAF,Second Round,6,0.0,6+,all,rank
+CONCACAF,Second Round,7,0.0,6+,all,rank
+CONCACAF,Second Round,8,0.0,6+,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,1,0.8333333333333334,1,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2,0.8333333333333334,2,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,3,0.8333333333333334,3-4,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,4,0.8333333333333334,3-4,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,5,0.16666666666666666,5,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,6,0.16666666666666666,6+,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,7,0.0,6+,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,8,0.0,6+,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,9,0.0,6+,all,rank
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,10,0.0,6+,all,rank
+OFC,Group Stage,1,0.8,1,all,rank
+OFC,Group Stage,2,0.4,2,all,rank
+OFC,Group Stage,3,0.4,3-4,all,rank
+OFC,Group Stage,4,0.0,3-4,all,rank
+UEFA,Group Stage,1,0.8484848484848485,1,all,rank
+UEFA,Group Stage,2,0.30303030303030304,2,all,rank
+UEFA,Group Stage,3,0.0,3-4,all,rank
+UEFA,Group Stage,4,0.0,3-4,all,rank
+UEFA,Group Stage,5,0.0,5,all,rank
+UEFA,Group Stage,6,0.0,6+,all,rank
+UEFA,Group Stage,7,0.0,6+,all,rank
+AFC,Second Round,,0.0,1,<1.0,bucket
+AFC,Second Round,,0.8333333333333334,1,>=2,bucket
+AFC,Second Round,,0.75,2,1.5-1.99,bucket
+AFC,Second Round,,0.0,2,<1.0,bucket
+AFC,Second Round,,0.5,2,>=2,bucket
+AFC,Second Round,,0.0,3-4,1.0-1.49,bucket
+AFC,Second Round,,0.0,3-4,1.5-1.99,bucket
+AFC,Second Round,,0.0,3-4,<1.0,bucket
+AFC,Second Round,,0.0,5,1.0-1.49,bucket
+AFC,Second Round,,0.0,5,<1.0,bucket
+AFC,Second Round,,0.0,6+,<1.0,bucket
+CAF,Group Stage,,1.0,1,1.5-1.99,bucket
+CAF,Group Stage,,0.8809523809523809,1,>=2,bucket
+CAF,Group Stage,,0.0,2,1.0-1.49,bucket
+CAF,Group Stage,,0.0,2,1.5-1.99,bucket
+CAF,Group Stage,,0.0,2,>=2,bucket
+CAF,Group Stage,,0.0,3-4,1.0-1.49,bucket
+CAF,Group Stage,,0.0,3-4,1.5-1.99,bucket
+CAF,Group Stage,,0.0,3-4,<1.0,bucket
+CAF,Group Stage,,0.0,5,1.0-1.49,bucket
+CAF,Group Stage,,0.0,5,<1.0,bucket
+CAF,Group Stage,,0.0,6+,<1.0,bucket
+CONCACAF,Second Round,,1.0,1,1.5-1.99,bucket
+CONCACAF,Second Round,,0.9,1,>=2,bucket
+CONCACAF,Second Round,,1.0,2,1.0-1.49,bucket
+CONCACAF,Second Round,,0.625,2,1.5-1.99,bucket
+CONCACAF,Second Round,,0.5,2,>=2,bucket
+CONCACAF,Second Round,,0.125,3-4,1.0-1.49,bucket
+CONCACAF,Second Round,,0.5714285714285714,3-4,1.5-1.99,bucket
+CONCACAF,Second Round,,0.0,3-4,<1.0,bucket
+CONCACAF,Second Round,,0.0,5,1.0-1.49,bucket
+CONCACAF,Second Round,,0.0,5,1.5-1.99,bucket
+CONCACAF,Second Round,,0.0,5,<1.0,bucket
+CONCACAF,Second Round,,0.0,6+,<1.0,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,0.5,1,1.5-1.99,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,1.0,1,>=2,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,0.8,2,1.5-1.99,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,1.0,2,>=2,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,1.0,3-4,1.0-1.49,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,0.8181818181818182,3-4,1.5-1.99,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,0.0,5,1.0-1.49,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,0.5,5,1.5-1.99,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,0.0,6+,1.0-1.49,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,1.0,6+,1.5-1.99,bucket
+CONMEBOL,2026 World Cup Qualifying - CONMEBOL,,0.0,6+,<1.0,bucket
+OFC,Group Stage,,1.0,1,1.5-1.99,bucket
+OFC,Group Stage,,0.75,1,>=2,bucket
+OFC,Group Stage,,0.5,2,1.0-1.49,bucket
+OFC,Group Stage,,0.5,2,1.5-1.99,bucket
+OFC,Group Stage,,0.0,2,>=2,bucket
+OFC,Group Stage,,0.5,3-4,1.0-1.49,bucket
+OFC,Group Stage,,1.0,3-4,1.5-1.99,bucket
+OFC,Group Stage,,0.0,3-4,<1.0,bucket
+UEFA,Group Stage,,0.8484848484848485,1,>=2,bucket
+UEFA,Group Stage,,0.0,2,1.0-1.49,bucket
+UEFA,Group Stage,,0.26666666666666666,2,1.5-1.99,bucket
+UEFA,Group Stage,,0.34285714285714286,2,>=2,bucket
+UEFA,Group Stage,,0.0,3-4,1.0-1.49,bucket
+UEFA,Group Stage,,0.0,3-4,1.5-1.99,bucket
+UEFA,Group Stage,,0.0,3-4,<1.0,bucket
+UEFA,Group Stage,,0.0,3-4,>=2,bucket
+UEFA,Group Stage,,0.0,5,1.0-1.49,bucket
+UEFA,Group Stage,,0.0,5,<1.0,bucket
+UEFA,Group Stage,,0.0,6+,<1.0,bucket

@@ -15,11 +15,14 @@ from __future__ import annotations
 import hashlib
 import json
 import logging
+import os
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
+import certifi
 import requests
+import urllib3
 
 try:  # Optional dependency for future persistence.
     import psycopg2  # type: ignore
@@ -114,6 +117,13 @@ class ConfederationScraper:
         self.confederation = confederation
         self.source_url = source_url
         self.session = session or requests.Session()
+        if session is None:
+            verify_env = os.environ.get("CONFED_SCRAPER_VERIFY_SSL", "0").lower()
+            if verify_env in {"1", "true", "yes"}:
+                self.session.verify = certifi.where()
+            else:
+                self.session.verify = False
+                urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
     # Public API -------------------------------------------------------------
     def run(self) -> List[GroupStanding]:
@@ -278,21 +288,28 @@ ESPN_LEAGUE_CODES = {
     "OFC": "fifa.worldq.ofc",
 }
 
+# By default we let ESPN serve the latest stage without forcing season overrides.
+ESPN_SEASON_OVERRIDES: Dict[str, Dict[str, Optional[int]]] = {}
+
 
 def build_default_scrapers(
     *,
     session: Optional[requests.Session] = None,
-    season: int = 2023,
+    season: Optional[int] = None,
 ) -> List[ConfederationScraper]:
     """Instantiate one scraper per confederation."""
     scrapers: List[ConfederationScraper] = []
     for confed, league_code in ESPN_LEAGUE_CODES.items():
+        override = ESPN_SEASON_OVERRIDES.get(confed)
+        season_value = override.get("season") if override else season
+        season_type_value = override.get("season_type") if override else None
         scrapers.append(
             EspnStandingsScraper(
                 confederation=confed,
                 league_code=league_code,
-                season=season,
-                # 3 == "Third Round" for AFC, etc. Leave None so ESPN picks latest per confed.
+                season=season_value,
+                season_type=season_type_value,
+                # Leave None so ESPN picks latest per confed unless overridden.
                 session=session,
             )
         )
