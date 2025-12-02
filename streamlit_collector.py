@@ -33,7 +33,21 @@ def load_config():
         return None
 
 def get_team_stats():
-    """Get current team statistics"""
+    """Get current team statistics from database or CSV fallback"""
+    # Try database first
+    try:
+        from scrapers.db_reader import PostgresReader
+        reader = PostgresReader()
+        df = reader.get_team_probabilities()
+        stats = reader.get_team_stats()
+        
+        if not df.empty:
+            return df, stats
+    except Exception as db_error:
+        # Fall back to CSV if database is not available
+        st.warning(f"Database not available ({str(db_error)[:50]}...), using CSV fallback")
+    
+    # CSV fallback
     csv_path = Path('team_slot_probabilities.csv')
     if not csv_path.exists():
         return None, None
@@ -81,7 +95,7 @@ def run_collector_once():
 def refresh_probabilities():
     """Regenerate team_slot_probabilities.csv via ESPN scrapers."""
     try:
-        from update_team_slot_probabilities import update_team_slot_probabilities
+        from scrapers.update_team_slot_probabilities import update_team_slot_probabilities
         update_team_slot_probabilities()
         return True
     except Exception as e:
@@ -95,6 +109,21 @@ st.markdown("---")
 # Sidebar controls
 with st.sidebar:
     st.header("Controls")
+    
+    # Database connection status
+    db_connected = False
+    try:
+        from scrapers.db_reader import PostgresReader
+        reader = PostgresReader()
+        # Try a simple query to test connection
+        reader.get_team_stats()
+        db_connected = True
+        st.success("✅ Database Connected")
+    except Exception as e:
+        st.warning(f"⚠️ Database: {str(e)[:40]}...")
+        st.caption("Using CSV fallback")
+    
+    st.markdown("---")
     
     api_key = load_config()
     if api_key:
@@ -226,6 +255,26 @@ with col1:
 
 with col2:
     st.header("Collection Status")
+    
+    # Show recent scraper jobs if database is connected
+    if db_connected:
+        try:
+            from scrapers.db_reader import PostgresReader
+            reader = PostgresReader()
+            jobs_df = reader.get_recent_scraper_jobs(limit=5)
+            
+            if not jobs_df.empty:
+                st.subheader("Recent Lambda Jobs")
+                for _, job in jobs_df.iterrows():
+                    status_emoji = "✅" if job['status'] == 'success' else "⚠️" if job['status'] == 'partial' else "❌"
+                    st.caption(f"{status_emoji} {job['job_type']} - {job['status']}")
+                    if job['rows_inserted'] or job['rows_updated']:
+                        st.caption(f"   {job['rows_inserted']} inserted, {job['rows_updated']} updated")
+                    if job['started_at']:
+                        st.caption(f"   {job['started_at']}")
+                st.markdown("---")
+        except Exception as e:
+            st.caption(f"Could not load job history: {str(e)[:40]}")
     
     progress = get_progress()
     

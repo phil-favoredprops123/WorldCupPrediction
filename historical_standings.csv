@@ -1,0 +1,779 @@
+season,confederation,stage,group_name,team,rank,points,games_played,wins,draws,losses,goals_for,goals_against,goal_difference,qualified,note,source_url,rank_bucket,points_per_game,ppg_bucket,goal_diff_bucket
+2006,AFC,Second Round,Group A,South Korea,2,10,6,3,1,2,9,5,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,1.6666666666666667,1.5-1.99,0-4
+2006,AFC,Second Round,Group A,Saudi Arabia,1,14,6,4,2,0,10,1,9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.3333333333333335,>=2,5-9
+2006,AFC,Second Round,Group A,Kuwait,4,4,6,1,1,4,4,13,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2006,AFC,Second Round,Group A,Uzbekistan,3,5,6,1,2,3,7,11,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.8333333333333334,<1.0,-4- -0
+2006,AFC,Second Round,Group B,Iran,2,13,6,4,1,1,7,3,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,2.1666666666666665,>=2,0-4
+2006,AFC,Second Round,Group B,Japan,1,15,6,5,0,1,9,4,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.5,>=2,5-9
+2006,AFC,Second Round,Group B,Bahrain,3,4,6,1,1,4,4,7,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.6666666666666666,<1.0,-4- -0
+2006,AFC,Second Round,Group B,North Korea,4,3,6,1,0,5,5,11,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.5,<1.0,-9- -5
+2006,CAF,Group Stage,Group 1,Senegal,2,21,10,6,3,1,21,8,13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.1,>=2,>=10
+2006,CAF,Group Stage,Group 1,Mali,5,8,10,2,2,6,11,14,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.8,<1.0,-4- -0
+2006,CAF,Group Stage,Group 1,Liberia,6,4,10,1,1,8,3,27,-24,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.4,<1.0,<-9
+2006,CAF,Group Stage,Group 1,Congo,4,10,10,3,1,6,10,14,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-4- -0
+2006,CAF,Group Stage,Group 1,Zambia,3,19,10,6,1,3,16,10,6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.9,1.5-1.99,5-9
+2006,CAF,Group Stage,Group 1,Togo,1,23,10,7,2,1,20,8,12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3,>=2,>=10
+2006,CAF,Group Stage,Group 2,South Africa,3,16,10,5,1,4,12,14,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.6,1.5-1.99,-4- -0
+2006,CAF,Group Stage,Group 2,Cape Verde,5,10,10,3,1,6,8,15,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,1.0,1.0-1.49,-9- -5
+2006,CAF,Group Stage,Group 2,Burkina Faso,4,13,10,4,1,5,14,13,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.3,1.0-1.49,0-4
+2006,CAF,Group Stage,Group 2,Congo DR,2,16,10,4,4,2,14,10,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.6,1.5-1.99,0-4
+2006,CAF,Group Stage,Group 2,Uganda,6,8,10,2,2,6,6,15,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.8,<1.0,-9- -5
+2006,CAF,Group Stage,Group 2,Ghana,1,21,10,6,3,1,17,4,13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1,>=2,>=10
+2006,CAF,Group Stage,Group 3,Cameroon,2,21,10,6,3,1,18,10,8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.1,>=2,5-9
+2006,CAF,Group Stage,Group 3,Egypt,3,17,10,5,2,3,26,15,11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.7,1.5-1.99,>=10
+2006,CAF,Group Stage,Group 3,Libya,4,12,10,3,3,4,8,10,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.2,1.0-1.49,-4- -0
+2006,CAF,Group Stage,Group 3,Benin,6,5,10,1,2,7,9,23,-14,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.5,<1.0,<-9
+2006,CAF,Group Stage,Group 3,Sudan,5,6,10,1,3,6,6,22,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.6,<1.0,<-9
+2006,CAF,Group Stage,Group 3,Ivory Coast,1,22,10,7,1,2,20,7,13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.2,>=2,>=10
+2006,CAF,Group Stage,Group 4,Algeria,5,8,10,1,5,4,8,15,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.8,<1.0,-9- -5
+2006,CAF,Group Stage,Group 4,Angola,1,21,10,6,3,1,12,6,6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1,>=2,5-9
+2006,CAF,Group Stage,Group 4,Nigeria,2,21,10,6,3,1,21,7,14,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.1,>=2,>=10
+2006,CAF,Group Stage,Group 4,Rwanda,6,5,10,1,2,7,6,16,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.5,<1.0,<-9
+2006,CAF,Group Stage,Group 4,Zimbabwe,3,15,10,4,3,3,13,14,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.5,1.5-1.99,-4- -0
+2006,CAF,Group Stage,Group 4,Gabon,4,10,10,2,4,4,11,13,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-4- -0
+2006,CAF,Group Stage,Group 5,Tunisia,1,21,10,6,3,1,25,9,16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1,>=2,>=10
+2006,CAF,Group Stage,Group 5,Guinea,3,17,10,5,2,3,15,10,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.7,1.5-1.99,5-9
+2006,CAF,Group Stage,Group 5,Kenya,4,10,10,3,1,6,8,17,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-9- -5
+2006,CAF,Group Stage,Group 5,Morocco,2,20,10,5,5,0,17,7,10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.0,>=2,>=10
+2006,CAF,Group Stage,Group 5,Botswana,5,9,10,3,0,7,10,18,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.9,<1.0,-9- -5
+2006,CAF,Group Stage,Group 5,Malawi,6,6,10,1,3,6,12,26,-14,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.6,<1.0,<-9
+2006,CONCACAF,Second Round,Third Round,Mexico,2,22,10,7,1,2,22,9,13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,2.2,>=2,>=10
+2006,CONCACAF,Second Round,Third Round,Costa Rica,3,16,10,5,1,4,15,14,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.6,1.5-1.99,0-4
+2006,CONCACAF,Second Round,Third Round,United States,1,22,10,7,1,2,16,6,10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.2,>=2,>=10
+2006,CONCACAF,Second Round,Third Round,Trinidad and Tobago,4,13,10,4,1,5,10,15,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.3,1.0-1.49,-9- -5
+2006,CONCACAF,Second Round,Third Round,Guatemala,5,11,10,3,2,5,16,18,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,5,1.1,1.0-1.49,-4- -0
+2006,CONCACAF,Second Round,Third Round,Panama,6,2,10,0,2,8,4,21,-17,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,6+,0.2,<1.0,<-9
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Argentina,2,34,18,10,4,4,29,17,12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,2,1.8888888888888888,1.5-1.99,>=10
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Bolivia,10,14,18,4,2,12,20,37,-17,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.7777777777777778,<1.0,<-9
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Brazil,1,34,18,9,7,2,35,17,18,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,1,1.8888888888888888,1.5-1.99,>=10
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Chile,7,22,18,5,7,6,18,22,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.2222222222222223,1.0-1.49,-4- -0
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Colombia,6,24,18,6,6,6,24,16,8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.3333333333333333,1.0-1.49,5-9
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Ecuador,3,28,18,8,4,6,23,19,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5555555555555556,1.5-1.99,0-4
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Paraguay,4,28,18,8,4,6,23,23,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5555555555555556,1.5-1.99,0-4
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Peru,9,18,18,4,6,8,20,28,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.0,1.0-1.49,-9- -5
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Uruguay,5,25,18,6,7,5,23,28,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,5,1.3888888888888888,1.0-1.49,-9- -5
+2006,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Venezuela,8,18,18,5,3,10,20,28,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.0,1.0-1.49,-9- -5
+2006,UEFA,Group Stage,Group A,Netherlands,1,32,12,10,2,0,27,3,24,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6666666666666665,>=2,>=10
+2006,UEFA,Group Stage,Group A,Czechia,2,27,12,9,0,3,35,12,23,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.25,>=2,>=10
+2006,UEFA,Group Stage,Group A,Finland,4,16,12,5,1,6,21,19,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3333333333333333,1.0-1.49,0-4
+2006,UEFA,Group Stage,Group A,North Macedonia,5,9,12,2,3,7,11,24,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.75,<1.0,<-9
+2006,UEFA,Group Stage,Group A,Romania,3,25,12,8,1,3,20,10,10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,2.0833333333333335,>=2,>=10
+2006,UEFA,Group Stage,Group A,Armenia,6,7,12,2,1,9,9,25,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.5833333333333334,<1.0,<-9
+2006,UEFA,Group Stage,Group A,Andorra,7,5,12,1,2,9,4,34,-30,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.4166666666666667,<1.0,<-9
+2006,UEFA,Group Stage,Group B,Greece,4,21,12,6,3,3,15,9,6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.75,1.5-1.99,5-9
+2006,UEFA,Group Stage,Group B,Ukraine,1,25,12,7,4,1,18,7,11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.0833333333333335,>=2,>=10
+2006,UEFA,Group Stage,Group B,Turkey,2,23,12,6,5,1,23,9,14,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9166666666666667,1.5-1.99,>=10
+2006,UEFA,Group Stage,Group B,Denmark,3,22,12,6,4,2,24,12,12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8333333333333333,1.5-1.99,>=10
+2006,UEFA,Group Stage,Group B,Georgia,6,10,12,2,4,6,14,25,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.8333333333333334,<1.0,<-9
+2006,UEFA,Group Stage,Group B,Albania,5,13,12,4,1,7,11,20,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.0833333333333333,1.0-1.49,-9- -5
+2006,UEFA,Group Stage,Group B,Kazakhstan,7,1,12,0,1,11,6,29,-23,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.08333333333333333,<1.0,<-9
+2006,UEFA,Group Stage,Group C,Estonia,4,17,12,5,2,5,16,17,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4166666666666667,1.0-1.49,-4- -0
+2006,UEFA,Group Stage,Group C,Russia,3,23,12,6,5,1,23,12,11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.9166666666666667,1.5-1.99,>=10
+2006,UEFA,Group Stage,Group C,Latvia,5,15,12,4,3,5,18,21,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.25,1.0-1.49,-4- -0
+2006,UEFA,Group Stage,Group C,Slovakia,2,23,12,6,5,1,24,8,16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9166666666666667,1.5-1.99,>=10
+2006,UEFA,Group Stage,Group C,Portugal,1,30,12,9,3,0,35,5,30,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,>=10
+2006,UEFA,Group Stage,Group C,Luxembourg,7,0,12,0,0,12,5,48,-43,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2006,UEFA,Group Stage,Group C,Liechtenstein,6,8,12,2,2,8,13,23,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.6666666666666666,<1.0,<-9
+2006,UEFA,Group Stage,Group D,Cyprus,5,4,10,1,1,8,8,20,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.4,<1.0,<-9
+2006,UEFA,Group Stage,Group D,Faroe Islands,6,1,10,0,1,9,4,27,-23,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.1,<1.0,<-9
+2006,UEFA,Group Stage,Group D,Israel,3,18,10,4,6,0,15,10,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8,1.5-1.99,5-9
+2006,UEFA,Group Stage,Group D,Switzerland,2,18,10,4,6,0,18,7,11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8,1.5-1.99,>=10
+2006,UEFA,Group Stage,Group D,Republic of Ireland,4,17,10,4,5,1,12,5,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,5-9
+2006,UEFA,Group Stage,Group D,France,1,20,10,5,5,0,14,2,12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.0,>=2,>=10
+2006,UEFA,Group Stage,Group E,Italy,1,23,10,7,2,1,17,8,9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.3,>=2,5-9
+2006,UEFA,Group Stage,Group E,Norway,2,18,10,5,3,2,12,7,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8,1.5-1.99,5-9
+2006,UEFA,Group Stage,Group E,Slovenia,4,12,10,3,3,4,10,13,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,-4- -0
+2006,UEFA,Group Stage,Group E,Moldova,6,5,10,1,2,7,5,16,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.5,<1.0,<-9
+2006,UEFA,Group Stage,Group E,Scotland,3,13,10,3,4,3,9,7,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,0-4
+2006,UEFA,Group Stage,Group E,Belarus,5,10,10,2,4,4,12,14,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.0,1.0-1.49,-4- -0
+2006,UEFA,Group Stage,Group F,England,1,25,10,8,1,1,17,5,12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,>=10
+2006,UEFA,Group Stage,Group F,Poland,2,24,10,8,0,2,27,9,18,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.4,>=2,>=10
+2006,UEFA,Group Stage,Group F,Austria,3,15,10,4,3,3,15,12,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2006,UEFA,Group Stage,Group F,Wales,5,8,10,2,2,6,10,15,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.8,<1.0,-9- -5
+2006,UEFA,Group Stage,Group F,Azerbaijan,6,3,10,0,3,7,1,21,-20,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.3,<1.0,<-9
+2006,UEFA,Group Stage,Group F,Northern Ireland,4,9,10,2,3,5,10,18,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.9,<1.0,-9- -5
+2006,UEFA,Group Stage,Group G,Spain,2,20,10,5,5,0,19,3,16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2006,UEFA,Group Stage,Group G,Serbia & Montenegro,1,22,10,6,4,0,16,1,15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,>=10
+2006,UEFA,Group Stage,Group G,Bosnia and Herzegovina,3,16,10,4,4,2,12,9,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,0-4
+2006,UEFA,Group Stage,Group G,Belgium,4,12,10,3,3,4,16,11,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,5-9
+2006,UEFA,Group Stage,Group G,Lithuania,5,10,10,2,4,4,8,9,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.0,1.0-1.49,-4- -0
+2006,UEFA,Group Stage,Group G,San Marino,6,0,10,0,0,10,2,40,-38,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2006,UEFA,Group Stage,Group H,Malta,6,3,10,0,3,7,4,32,-28,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.3,<1.0,<-9
+2006,UEFA,Group Stage,Group H,Bulgaria,3,15,10,4,3,3,17,17,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2006,UEFA,Group Stage,Group H,Sweden,2,24,10,8,0,2,30,4,26,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.4,>=2,>=10
+2006,UEFA,Group Stage,Group H,Iceland,5,4,10,1,1,8,14,27,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.4,<1.0,<-9
+2006,UEFA,Group Stage,Group H,Croatia,1,24,10,7,3,0,21,5,16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.4,>=2,>=10
+2006,UEFA,Group Stage,Group H,Hungary,4,14,10,4,2,4,13,14,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,-4- -0
+2009,AFC,Second Round,Group A,Japan,2,15,8,4,3,1,11,6,5,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,1.875,1.5-1.99,5-9
+2009,AFC,Second Round,Group A,Australia,1,20,8,6,2,0,12,1,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.5,>=2,>=10
+2009,AFC,Second Round,Group A,Uzbekistan,5,4,8,1,1,6,5,10,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,0.5,<1.0,-9- -5
+2009,AFC,Second Round,Group A,Bahrain,3,10,8,3,1,4,6,8,-2,False,Play-off for the right to face a country from Oceania for a place at the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.25,1.0-1.49,-4- -0
+2009,AFC,Second Round,Group A,Qatar,4,6,8,1,3,4,5,14,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.75,<1.0,-9- -5
+2009,AFC,Second Round,Group B,South Korea,1,16,8,4,4,0,12,4,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.0,>=2,5-9
+2009,AFC,Second Round,Group B,Iran,4,11,8,2,5,1,8,7,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.375,1.0-1.49,0-4
+2009,AFC,Second Round,Group B,Saudi Arabia,3,12,8,3,3,2,8,10,-2,False,Play-off for the right to face a country from Oceania for a place at the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.5,1.5-1.99,-4- -0
+2009,AFC,Second Round,Group B,United Arab Emirates,5,1,8,0,1,7,6,17,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,0.125,<1.0,<-9
+2009,AFC,Second Round,Group B,North Korea,2,12,8,3,3,2,7,5,2,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,1.5,1.5-1.99,0-4
+2009,CAF,Group Stage,Group A,Cameroon,1,13,6,4,1,1,9,2,7,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,5-9
+2009,CAF,Group Stage,Group A,Morocco,4,3,6,0,3,3,3,8,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,-9- -5
+2009,CAF,Group Stage,Group A,Gabon,2,9,6,3,0,3,9,7,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.5,1.5-1.99,0-4
+2009,CAF,Group Stage,Group A,Togo,3,8,6,2,2,2,3,7,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.3333333333333333,1.0-1.49,-4- -0
+2009,CAF,Group Stage,Group B,Nigeria,1,12,6,3,3,0,9,4,5,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.0,>=2,5-9
+2009,CAF,Group Stage,Group B,Tunisia,2,11,6,3,2,1,7,4,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.8333333333333333,1.5-1.99,0-4
+2009,CAF,Group Stage,Group B,Kenya,4,3,6,1,0,5,5,11,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,-9- -5
+2009,CAF,Group Stage,Group B,Mozambique,3,7,6,2,1,3,3,5,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2009,CAF,Group Stage,Group C,Algeria,1,13,6,4,1,1,9,4,5,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,5-9
+2009,CAF,Group Stage,Group C,Egypt,2,13,6,4,1,1,9,4,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.1666666666666665,>=2,5-9
+2009,CAF,Group Stage,Group C,Rwanda,4,2,6,0,2,4,1,8,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2009,CAF,Group Stage,Group C,Zambia,3,5,6,1,2,3,2,6,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.8333333333333334,<1.0,-4- -0
+2009,CAF,Group Stage,Group D,Benin,2,10,6,3,1,2,6,6,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.6666666666666667,1.5-1.99,0-4
+2009,CAF,Group Stage,Group D,Mali,3,9,6,2,3,1,8,7,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.5,1.5-1.99,0-4
+2009,CAF,Group Stage,Group D,Sudan,4,1,6,0,1,5,2,9,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.16666666666666666,<1.0,-9- -5
+2009,CAF,Group Stage,Group D,Ghana,1,13,6,4,1,1,9,3,6,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,5-9
+2009,CAF,Group Stage,Group E,Burkina Faso,2,12,6,4,0,2,10,11,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.0,>=2,-4- -0
+2009,CAF,Group Stage,Group E,Guinea,4,3,6,1,0,5,7,14,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,-9- -5
+2009,CAF,Group Stage,Group E,Malawi,3,4,6,1,1,4,4,11,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2009,CAF,Group Stage,Group E,Ivory Coast,1,16,6,5,1,0,19,4,15,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.6666666666666665,>=2,>=10
+2009,CONCACAF,Second Round,Third Round,United States,1,20,10,6,2,2,19,13,6,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.0,>=2,5-9
+2009,CONCACAF,Second Round,Third Round,Mexico,2,19,10,6,1,3,18,12,6,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.9,1.5-1.99,5-9
+2009,CONCACAF,Second Round,Third Round,Honduras,3,16,10,5,1,4,17,11,6,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.6,1.5-1.99,5-9
+2009,CONCACAF,Second Round,Third Round,Costa Rica,4,16,10,5,1,4,15,15,0,False,Play-off with a nation from CONMEBOL,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.6,1.5-1.99,0-4
+2009,CONCACAF,Second Round,Third Round,El Salvador,5,8,10,2,2,6,9,15,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,5,0.8,<1.0,-9- -5
+2009,CONCACAF,Second Round,Third Round,Trinidad and Tobago,6,6,10,1,3,6,10,22,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,6+,0.6,<1.0,<-9
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Brazil,1,34,18,9,7,2,33,11,22,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,1,1.8888888888888888,1.5-1.99,>=10
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Chile,2,33,18,10,3,5,32,22,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,2,1.8333333333333333,1.5-1.99,>=10
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Paraguay,3,33,18,10,3,5,24,16,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.8333333333333333,1.5-1.99,5-9
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Argentina,4,28,18,8,4,6,23,20,3,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5555555555555556,1.5-1.99,0-4
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Uruguay,5,24,18,6,6,6,28,20,8,False,Play-off with a nation from CONCACAF,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,5,1.3333333333333333,1.0-1.49,5-9
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Ecuador,6,23,18,6,5,7,22,26,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.2777777777777777,1.0-1.49,-4- -0
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Colombia,7,23,18,6,5,7,14,18,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.2777777777777777,1.0-1.49,-4- -0
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Venezuela,8,22,18,6,4,8,23,29,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.2222222222222223,1.0-1.49,-9- -5
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Bolivia,9,15,18,4,3,11,22,36,-14,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.8333333333333334,<1.0,<-9
+2009,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Peru,10,13,18,3,4,11,11,34,-23,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.7222222222222222,<1.0,<-9
+2009,UEFA,Group Stage,Group A,Malta,6,1,10,0,1,9,0,26,-26,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.1,<1.0,<-9
+2009,UEFA,Group Stage,Group A,Sweden,3,18,10,5,3,2,13,5,8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8,1.5-1.99,5-9
+2009,UEFA,Group Stage,Group A,Denmark,1,21,10,6,3,1,16,5,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.1,>=2,>=10
+2009,UEFA,Group Stage,Group A,Hungary,4,16,10,5,1,4,10,8,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,0-4
+2009,UEFA,Group Stage,Group A,Portugal,2,19,10,5,4,1,17,5,12,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9,1.5-1.99,>=10
+2009,UEFA,Group Stage,Group A,Albania,5,7,10,1,4,5,6,13,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.7,<1.0,-9- -5
+2009,UEFA,Group Stage,Group B,Greece,2,20,10,6,2,2,20,10,10,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2009,UEFA,Group Stage,Group B,Latvia,3,17,10,5,2,3,18,15,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,0-4
+2009,UEFA,Group Stage,Group B,Israel,4,16,10,4,4,2,20,10,10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,>=10
+2009,UEFA,Group Stage,Group B,Switzerland,1,21,10,6,3,1,18,8,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.1,>=2,>=10
+2009,UEFA,Group Stage,Group B,Moldova,6,3,10,0,3,7,6,18,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.3,<1.0,<-9
+2009,UEFA,Group Stage,Group B,Luxembourg,5,5,10,1,2,7,4,25,-21,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.5,<1.0,<-9
+2009,UEFA,Group Stage,Group C,Czechia,3,16,10,4,4,2,17,6,11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,>=10
+2009,UEFA,Group Stage,Group C,Slovakia,1,22,10,7,1,2,22,10,12,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,>=10
+2009,UEFA,Group Stage,Group C,Poland,5,11,10,3,2,5,19,14,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.1,1.0-1.49,5-9
+2009,UEFA,Group Stage,Group C,Slovenia,2,20,10,6,2,2,18,4,14,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2009,UEFA,Group Stage,Group C,Northern Ireland,4,15,10,4,3,3,13,9,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2009,UEFA,Group Stage,Group C,San Marino,6,0,10,0,0,10,1,47,-46,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2009,UEFA,Group Stage,Group D,Russia,2,22,10,7,1,2,19,6,13,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.2,>=2,>=10
+2009,UEFA,Group Stage,Group D,Finland,3,18,10,5,3,2,14,14,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8,1.5-1.99,0-4
+2009,UEFA,Group Stage,Group D,Germany,1,26,10,8,2,0,26,5,21,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6,>=2,>=10
+2009,UEFA,Group Stage,Group D,Wales,4,12,10,4,0,6,9,12,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,-4- -0
+2009,UEFA,Group Stage,Group D,Azerbaijan,5,5,10,1,2,7,4,14,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.5,<1.0,<-9
+2009,UEFA,Group Stage,Group D,Liechtenstein,6,2,10,0,2,8,2,23,-21,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.2,<1.0,<-9
+2009,UEFA,Group Stage,Group E,Spain,1,30,10,10,0,0,28,5,23,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,3.0,>=2,>=10
+2009,UEFA,Group Stage,Group E,Estonia,5,8,10,2,2,6,9,24,-15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.8,<1.0,<-9
+2009,UEFA,Group Stage,Group E,Bosnia and Herzegovina,2,19,10,6,1,3,25,13,12,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9,1.5-1.99,>=10
+2009,UEFA,Group Stage,Group E,Belgium,4,10,10,3,1,6,13,20,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.0,1.0-1.49,-9- -5
+2009,UEFA,Group Stage,Group E,Turkey,3,15,10,4,3,3,13,10,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2009,UEFA,Group Stage,Group E,Armenia,6,4,10,1,1,8,6,23,-17,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.4,<1.0,<-9
+2009,UEFA,Group Stage,Group F,England,1,27,10,9,0,1,34,6,28,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.7,>=2,>=10
+2009,UEFA,Group Stage,Group F,Ukraine,2,21,10,6,3,1,21,6,15,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.1,>=2,>=10
+2009,UEFA,Group Stage,Group F,Croatia,3,20,10,6,2,2,19,13,6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,2.0,>=2,5-9
+2009,UEFA,Group Stage,Group F,Belarus,4,13,10,4,1,5,19,14,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,5-9
+2009,UEFA,Group Stage,Group F,Andorra,6,0,10,0,0,10,3,39,-36,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2009,UEFA,Group Stage,Group F,Kazakhstan,5,6,10,2,0,8,11,29,-18,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.6,<1.0,<-9
+2009,UEFA,Group Stage,Group G,Faroe Islands,6,4,10,1,1,8,5,20,-15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.4,<1.0,<-9
+2009,UEFA,Group Stage,Group G,Lithuania,4,12,10,4,0,6,10,11,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,-4- -0
+2009,UEFA,Group Stage,Group G,Romania,5,12,10,3,3,4,12,18,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.2,1.0-1.49,-9- -5
+2009,UEFA,Group Stage,Group G,Austria,3,14,10,4,2,4,14,15,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,-4- -0
+2009,UEFA,Group Stage,Group G,France,2,21,10,6,3,1,18,9,9,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.1,>=2,5-9
+2009,UEFA,Group Stage,Group G,Serbia,1,22,10,7,1,2,22,8,14,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,>=10
+2009,UEFA,Group Stage,Group H,Italy,1,24,10,7,3,0,18,7,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.4,>=2,>=10
+2009,UEFA,Group Stage,Group H,Cyprus,4,9,10,2,3,5,14,16,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.9,<1.0,-4- -0
+2009,UEFA,Group Stage,Group H,Bulgaria,3,14,10,3,5,2,17,13,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,0-4
+2009,UEFA,Group Stage,Group H,Republic of Ireland,2,18,10,4,6,0,12,8,4,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8,1.5-1.99,0-4
+2009,UEFA,Group Stage,Group H,Georgia,6,3,10,0,3,7,7,19,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.3,<1.0,<-9
+2009,UEFA,Group Stage,Group H,Montenegro,5,9,10,1,6,3,9,14,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.9,<1.0,-9- -5
+2009,UEFA,Group Stage,Group I,Netherlands,1,24,8,8,0,0,17,2,15,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,3.0,>=2,>=10
+2009,UEFA,Group Stage,Group I,North Macedonia,4,7,8,2,1,5,5,11,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.875,<1.0,-9- -5
+2009,UEFA,Group Stage,Group I,Norway,2,10,8,2,4,2,9,7,2,False,Play-off for World Cup qualification in November 2009 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.25,1.0-1.49,0-4
+2009,UEFA,Group Stage,Group I,Iceland,5,5,8,1,2,5,7,13,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.625,<1.0,-9- -5
+2009,UEFA,Group Stage,Group I,Scotland,3,10,8,3,1,4,6,11,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.25,1.0-1.49,-9- -5
+2012,UEFA,Group Stage,Group A,Belgium,1,16,6,5,1,0,11,1,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6666666666666665,>=2,>=10
+2012,UEFA,Group Stage,Group A,North Macedonia,5,4,6,1,1,4,3,7,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.6666666666666666,<1.0,-4- -0
+2012,UEFA,Group Stage,Group A,Croatia,2,16,6,5,1,0,10,3,7,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.6666666666666665,>=2,5-9
+2012,UEFA,Group Stage,Group A,Wales,4,6,6,2,0,4,6,14,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.0,1.0-1.49,-9- -5
+2012,UEFA,Group Stage,Group A,Scotland,6,2,6,0,2,4,3,9,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.3333333333333333,<1.0,-9- -5
+2012,UEFA,Group Stage,Group A,Serbia,3,7,6,2,1,3,8,7,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.1666666666666667,1.0-1.49,0-4
+2012,UEFA,Group Stage,Group B,Italy,1,13,5,4,1,0,12,4,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6,>=2,5-9
+2012,UEFA,Group Stage,Group B,Czechia,3,8,5,2,2,1,6,4,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,0-4
+2012,UEFA,Group Stage,Group B,Malta,6,0,5,0,0,5,1,14,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2012,UEFA,Group Stage,Group B,Bulgaria,2,10,6,2,4,0,11,4,7,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.6666666666666667,1.5-1.99,5-9
+2012,UEFA,Group Stage,Group B,Denmark,4,6,5,1,3,1,6,5,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,0-4
+2012,UEFA,Group Stage,Group B,Armenia,5,3,4,1,0,3,2,7,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.75,<1.0,-9- -5
+2012,UEFA,Group Stage,Group C,Faroe Islands,6,0,4,0,0,4,2,15,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2012,UEFA,Group Stage,Group C,Sweden,3,8,4,2,2,0,8,5,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,2.0,>=2,0-4
+2012,UEFA,Group Stage,Group C,Austria,2,8,5,2,2,1,13,4,9,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.6,1.5-1.99,5-9
+2012,UEFA,Group Stage,Group C,Republic of Ireland,4,8,5,2,2,1,9,10,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,-4- -0
+2012,UEFA,Group Stage,Group C,Germany,1,16,6,5,1,0,22,7,15,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6666666666666665,>=2,>=10
+2012,UEFA,Group Stage,Group C,Kazakhstan,5,1,6,0,1,5,2,15,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.16666666666666666,<1.0,<-9
+2012,UEFA,Group Stage,Group D,Estonia,5,6,6,2,0,4,3,9,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.0,1.0-1.49,-9- -5
+2012,UEFA,Group Stage,Group D,Netherlands,1,18,6,6,0,0,20,2,18,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,3.0,>=2,>=10
+2012,UEFA,Group Stage,Group D,Turkey,4,7,6,2,1,3,7,7,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.1666666666666667,1.0-1.49,0-4
+2012,UEFA,Group Stage,Group D,Romania,3,10,6,3,1,2,10,10,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6666666666666667,1.5-1.99,0-4
+2012,UEFA,Group Stage,Group D,Hungary,2,11,6,3,2,1,13,8,5,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8333333333333333,1.5-1.99,5-9
+2012,UEFA,Group Stage,Group D,Andorra,6,0,6,0,0,6,0,17,-17,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2012,UEFA,Group Stage,Group E,Cyprus,5,4,5,1,1,3,4,8,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.8,<1.0,-4- -0
+2012,UEFA,Group Stage,Group E,Norway,4,7,5,2,1,2,6,6,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,0-4
+2012,UEFA,Group Stage,Group E,Iceland,2,9,5,3,0,2,6,5,1,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8,1.5-1.99,0-4
+2012,UEFA,Group Stage,Group E,Slovenia,6,3,5,1,0,4,4,8,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.6,<1.0,-4- -0
+2012,UEFA,Group Stage,Group E,Switzerland,1,11,5,3,2,0,7,1,6,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,5-9
+2012,UEFA,Group Stage,Group E,Albania,3,9,5,3,0,2,6,5,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8,1.5-1.99,0-4
+2012,UEFA,Group Stage,Group F,Russia,1,12,4,4,0,0,8,0,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,3.0,>=2,5-9
+2012,UEFA,Group Stage,Group F,Israel,2,11,6,3,2,1,15,8,7,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8333333333333333,1.5-1.99,5-9
+2012,UEFA,Group Stage,Group F,Portugal,3,11,6,3,2,1,11,6,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8333333333333333,1.5-1.99,5-9
+2012,UEFA,Group Stage,Group F,Azerbaijan,5,3,6,0,3,3,2,8,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.5,<1.0,-9- -5
+2012,UEFA,Group Stage,Group F,Luxembourg,6,2,5,0,2,3,2,12,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.4,<1.0,<-9
+2012,UEFA,Group Stage,Group F,Northern Ireland,4,3,5,0,3,2,3,7,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.6,<1.0,-4- -0
+2012,UEFA,Group Stage,Group G,Bosnia and Herzegovina,1,13,5,4,1,0,18,3,15,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6,>=2,>=10
+2012,UEFA,Group Stage,Group G,Greece,2,10,5,3,1,1,6,4,2,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,0-4
+2012,UEFA,Group Stage,Group G,Latvia,5,4,5,1,1,3,6,9,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.8,<1.0,-4- -0
+2012,UEFA,Group Stage,Group G,Lithuania,4,5,5,1,2,2,4,7,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.0,1.0-1.49,-4- -0
+2012,UEFA,Group Stage,Group G,Slovakia,3,8,5,2,2,1,6,4,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,0-4
+2012,UEFA,Group Stage,Group G,Liechtenstein,6,1,5,0,1,4,2,15,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.2,<1.0,<-9
+2012,UEFA,Group Stage,Group H,England,2,12,6,3,3,0,21,3,18,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2012,UEFA,Group Stage,Group H,Ukraine,4,8,5,2,2,1,6,4,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,0-4
+2012,UEFA,Group Stage,Group H,Poland,3,8,5,2,2,1,11,6,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,5-9
+2012,UEFA,Group Stage,Group H,Moldova,5,4,6,1,1,4,3,10,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.6666666666666666,<1.0,-9- -5
+2012,UEFA,Group Stage,Group H,San Marino,6,0,6,0,0,6,0,29,-29,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2012,UEFA,Group Stage,Group H,Montenegro,1,14,6,4,2,0,14,3,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.3333333333333335,>=2,>=10
+2012,UEFA,Group Stage,Group I,Spain,1,11,5,3,2,0,8,2,6,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,5-9
+2012,UEFA,Group Stage,Group I,Finland,5,2,3,0,2,1,2,3,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.6666666666666666,<1.0,-4- -0
+2012,UEFA,Group Stage,Group I,France,2,10,5,3,1,1,8,4,4,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,0-4
+2012,UEFA,Group Stage,Group I,Belarus,4,3,4,1,0,3,3,8,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.75,<1.0,-9- -5
+2012,UEFA,Group Stage,Group I,Georgia,3,4,5,1,1,3,3,7,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.8,<1.0,-4- -0
+2013,AFC,Second Round,Group A,South Korea,2,14,8,4,2,2,13,7,6,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,1.75,1.5-1.99,5-9
+2013,AFC,Second Round,Group A,Iran,1,16,8,5,1,2,8,2,6,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.0,>=2,5-9
+2013,AFC,Second Round,Group A,Uzbekistan,3,14,8,4,2,2,11,6,5,False,Play-off for the right to face a country from South America for a place at the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.75,1.5-1.99,5-9
+2013,AFC,Second Round,Group A,Lebanon,5,5,8,1,2,5,3,12,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,0.625,<1.0,-9- -5
+2013,AFC,Second Round,Group A,Qatar,4,7,8,2,1,5,5,13,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.875,<1.0,-9- -5
+2013,AFC,Second Round,Group B,Japan,1,17,8,5,2,1,16,5,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.125,>=2,>=10
+2013,AFC,Second Round,Group B,Australia,2,13,8,3,4,1,12,7,5,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,1.625,1.5-1.99,5-9
+2013,AFC,Second Round,Group B,Oman,4,9,8,2,3,3,7,10,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.125,1.0-1.49,-4- -0
+2013,AFC,Second Round,Group B,Jordan,3,10,8,3,1,4,7,16,-9,False,Play-off for the right to face a country from South America for a place at the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.25,1.0-1.49,-9- -5
+2013,AFC,Second Round,Group B,Iraq,5,5,8,1,2,5,4,8,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,0.625,<1.0,-4- -0
+2013,CAF,Group Stage,Group A,South Africa,2,11,6,3,2,1,12,5,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.8333333333333333,1.5-1.99,5-9
+2013,CAF,Group Stage,Group A,Botswana,3,7,6,2,1,3,8,10,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2013,CAF,Group Stage,Group A,Ethiopia,1,13,6,4,1,1,8,6,2,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,0-4
+2013,CAF,Group Stage,Group A,Central African Republic,4,3,6,1,0,5,5,12,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,-9- -5
+2013,CAF,Group Stage,Group B,Tunisia,1,14,6,4,2,0,13,6,7,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3333333333333335,>=2,5-9
+2013,CAF,Group Stage,Group B,Cape Verde,2,9,6,3,0,3,9,7,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.5,1.5-1.99,0-4
+2013,CAF,Group Stage,Group B,Sierra Leone,3,8,6,2,2,2,10,10,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.3333333333333333,1.0-1.49,0-4
+2013,CAF,Group Stage,Group B,Equatorial Guinea,4,2,6,0,2,4,6,17,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,<-9
+2013,CAF,Group Stage,Group C,Morocco,2,9,6,2,3,1,9,8,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.5,1.5-1.99,0-4
+2013,CAF,Group Stage,Group C,Ivory Coast,1,14,6,4,2,0,15,5,10,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3333333333333335,>=2,>=10
+2013,CAF,Group Stage,Group C,Tanzania,3,6,6,2,0,4,8,12,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-4- -0
+2013,CAF,Group Stage,Group C,Gambia,4,4,6,1,1,4,4,11,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2013,CAF,Group Stage,Group D,Zambia,2,11,6,3,2,1,11,4,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.8333333333333333,1.5-1.99,5-9
+2013,CAF,Group Stage,Group D,Sudan,4,2,6,0,2,4,4,14,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,<-9
+2013,CAF,Group Stage,Group D,Ghana,1,15,6,5,0,1,18,3,15,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.5,>=2,>=10
+2013,CAF,Group Stage,Group D,Lesotho,3,5,6,1,2,3,4,16,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.8333333333333334,<1.0,<-9
+2013,CAF,Group Stage,Group E,Burkina Faso,1,12,6,4,0,2,7,4,3,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.0,>=2,0-4
+2013,CAF,Group Stage,Group E,Gabon,3,7,6,2,1,3,5,6,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2013,CAF,Group Stage,Group E,Congo,2,11,6,3,2,1,7,3,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.8333333333333333,1.5-1.99,0-4
+2013,CAF,Group Stage,Group E,Niger,4,4,6,1,1,4,6,12,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2013,CAF,Group Stage,Group F,Nigeria,1,12,6,3,3,0,7,3,4,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.0,>=2,0-4
+2013,CAF,Group Stage,Group F,Kenya,3,6,6,1,3,2,4,5,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-4- -0
+2013,CAF,Group Stage,Group F,Malawi,2,7,6,1,4,1,4,5,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.1666666666666667,1.0-1.49,-4- -0
+2013,CAF,Group Stage,Group F,Namibia,4,5,6,1,2,3,2,4,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.8333333333333334,<1.0,-4- -0
+2013,CAF,Group Stage,Group G,Egypt,1,18,6,6,0,0,16,7,9,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,3.0,>=2,5-9
+2013,CAF,Group Stage,Group G,Guinea,2,10,6,3,1,2,12,8,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.6666666666666667,1.5-1.99,0-4
+2013,CAF,Group Stage,Group G,Zimbabwe,4,2,6,0,2,4,4,9,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2013,CAF,Group Stage,Group G,Mozambique,3,3,6,0,3,3,2,10,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,-9- -5
+2013,CAF,Group Stage,Group H,Algeria,1,15,6,5,0,1,13,4,9,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.5,>=2,5-9
+2013,CAF,Group Stage,Group H,Benin,3,8,6,2,2,2,8,9,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.3333333333333333,1.0-1.49,-4- -0
+2013,CAF,Group Stage,Group H,Mali,2,8,6,2,2,2,7,7,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.3333333333333333,1.0-1.49,0-4
+2013,CAF,Group Stage,Group H,Rwanda,4,2,6,0,2,4,3,11,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2013,CAF,Group Stage,Group I,Cameroon,1,13,6,4,1,1,8,3,5,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,5-9
+2013,CAF,Group Stage,Group I,Libya,2,9,6,2,3,1,5,3,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.5,1.5-1.99,0-4
+2013,CAF,Group Stage,Group I,Congo DR,3,6,6,1,3,2,3,3,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,0-4
+2013,CAF,Group Stage,Group I,Togo,4,4,6,1,1,4,4,11,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2013,CAF,Group Stage,Group J,Angola,3,7,6,1,4,1,8,6,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,0-4
+2013,CAF,Group Stage,Group J,Senegal,1,12,6,3,3,0,9,4,5,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.0,>=2,5-9
+2013,CAF,Group Stage,Group J,Liberia,4,4,6,1,1,4,4,10,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2013,CAF,Group Stage,Group J,Uganda,2,8,6,2,2,2,5,6,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.3333333333333333,1.0-1.49,-4- -0
+2013,CONCACAF,Second Round,Third Round,United States,1,22,10,7,1,2,15,8,7,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.2,>=2,5-9
+2013,CONCACAF,Second Round,Third Round,Costa Rica,2,18,10,5,3,2,13,7,6,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.8,1.5-1.99,5-9
+2013,CONCACAF,Second Round,Third Round,Honduras,3,15,10,4,3,3,13,12,1,True,Qualifies for the World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.5,1.5-1.99,0-4
+2013,CONCACAF,Second Round,Third Round,Mexico,4,11,10,2,5,3,7,9,-2,False,Play-off with New Zealand,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.1,1.0-1.49,-4- -0
+2013,CONCACAF,Second Round,Third Round,Panama,5,8,10,1,5,4,10,14,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,5,0.8,<1.0,-4- -0
+2013,CONCACAF,Second Round,Third Round,Jamaica,6,5,10,0,5,5,5,13,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,6+,0.5,<1.0,-9- -5
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Argentina,1,32,16,9,5,2,35,15,20,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,1,2.0,>=2,>=10
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Colombia,2,30,16,9,3,4,27,13,14,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,2,1.875,1.5-1.99,>=10
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Chile,3,28,16,9,1,6,29,25,4,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.75,1.5-1.99,0-4
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Ecuador,4,25,16,7,4,5,20,16,4,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5625,1.5-1.99,0-4
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Uruguay,5,25,16,7,4,5,25,25,0,False,Play-off con una nación de Oceanía,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,5,1.5625,1.5-1.99,0-4
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Venezuela,6,20,16,5,5,6,14,20,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.25,1.0-1.49,-9- -5
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Peru,7,15,16,4,3,9,17,26,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.9375,<1.0,-9- -5
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Bolivia,8,12,16,2,6,8,17,30,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.75,<1.0,<-9
+2013,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Paraguay,9,12,16,3,3,10,17,31,-14,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.75,<1.0,<-9
+2013,UEFA,Group Stage,Group A,Belgium,1,26,10,8,2,0,18,4,14,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6,>=2,>=10
+2013,UEFA,Group Stage,Group A,North Macedonia,6,7,10,2,1,7,7,16,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.7,<1.0,-9- -5
+2013,UEFA,Group Stage,Group A,Croatia,2,17,10,5,2,3,12,9,3,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.7,1.5-1.99,0-4
+2013,UEFA,Group Stage,Group A,Wales,5,10,10,3,1,6,9,20,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.0,1.0-1.49,<-9
+2013,UEFA,Group Stage,Group A,Scotland,4,11,10,3,2,5,8,12,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.1,1.0-1.49,-4- -0
+2013,UEFA,Group Stage,Group A,Serbia,3,14,10,4,2,4,18,11,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,5-9
+2013,UEFA,Group Stage,Group B,Italy,1,22,10,6,4,0,19,9,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,>=10
+2013,UEFA,Group Stage,Group B,Czechia,3,15,10,4,3,3,13,9,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2013,UEFA,Group Stage,Group B,Malta,6,3,10,1,0,9,5,28,-23,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.3,<1.0,<-9
+2013,UEFA,Group Stage,Group B,Bulgaria,4,13,10,3,4,3,14,9,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,5-9
+2013,UEFA,Group Stage,Group B,Denmark,2,16,10,4,4,2,17,12,5,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.6,1.5-1.99,5-9
+2013,UEFA,Group Stage,Group B,Armenia,5,13,10,4,1,5,12,13,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.3,1.0-1.49,-4- -0
+2013,UEFA,Group Stage,Group C,Faroe Islands,6,1,10,0,1,9,4,29,-25,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.1,<1.0,<-9
+2013,UEFA,Group Stage,Group C,Sweden,2,20,10,6,2,2,19,14,5,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,5-9
+2013,UEFA,Group Stage,Group C,Austria,3,17,10,5,2,3,20,10,10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,>=10
+2013,UEFA,Group Stage,Group C,Republic of Ireland,4,14,10,4,2,4,16,17,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,-4- -0
+2013,UEFA,Group Stage,Group C,Germany,1,28,10,9,1,0,36,10,26,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.8,>=2,>=10
+2013,UEFA,Group Stage,Group C,Kazakhstan,5,5,10,1,2,7,6,21,-15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.5,<1.0,<-9
+2013,UEFA,Group Stage,Group D,Estonia,5,7,10,2,1,7,6,20,-14,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.7,<1.0,<-9
+2013,UEFA,Group Stage,Group D,Netherlands,1,28,10,9,1,0,34,5,29,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.8,>=2,>=10
+2013,UEFA,Group Stage,Group D,Turkey,4,16,10,5,1,4,16,9,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,5-9
+2013,UEFA,Group Stage,Group D,Romania,2,19,10,6,1,3,19,12,7,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9,1.5-1.99,5-9
+2013,UEFA,Group Stage,Group D,Hungary,3,17,10,5,2,3,21,20,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,0-4
+2013,UEFA,Group Stage,Group D,Andorra,6,0,10,0,0,10,0,30,-30,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2013,UEFA,Group Stage,Group E,Cyprus,6,5,10,1,2,7,4,15,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.5,<1.0,<-9
+2013,UEFA,Group Stage,Group E,Norway,4,12,10,3,3,4,10,13,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,-4- -0
+2013,UEFA,Group Stage,Group E,Iceland,2,17,10,5,2,3,17,15,2,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.7,1.5-1.99,0-4
+2013,UEFA,Group Stage,Group E,Slovenia,3,15,10,5,0,5,14,11,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2013,UEFA,Group Stage,Group E,Switzerland,1,24,10,7,3,0,17,6,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.4,>=2,>=10
+2013,UEFA,Group Stage,Group E,Albania,5,11,10,3,2,5,9,11,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.1,1.0-1.49,-4- -0
+2013,UEFA,Group Stage,Group F,Russia,1,22,10,7,1,2,20,5,15,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,>=10
+2013,UEFA,Group Stage,Group F,Israel,3,14,10,3,5,2,19,14,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,5-9
+2013,UEFA,Group Stage,Group F,Portugal,2,21,10,6,3,1,20,9,11,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.1,>=2,>=10
+2013,UEFA,Group Stage,Group F,Azerbaijan,4,9,10,1,6,3,7,11,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.9,<1.0,-4- -0
+2013,UEFA,Group Stage,Group F,Luxembourg,6,6,10,1,3,6,7,26,-19,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.6,<1.0,<-9
+2013,UEFA,Group Stage,Group F,Northern Ireland,5,7,10,1,4,5,9,17,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.7,<1.0,-9- -5
+2013,UEFA,Group Stage,Group G,Bosnia and Herzegovina,1,25,10,8,1,1,30,6,24,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,>=10
+2013,UEFA,Group Stage,Group G,Greece,2,25,10,8,1,1,12,4,8,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.5,>=2,5-9
+2013,UEFA,Group Stage,Group G,Latvia,5,8,10,2,2,6,10,20,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.8,<1.0,<-9
+2013,UEFA,Group Stage,Group G,Lithuania,4,11,10,3,2,5,9,11,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.1,1.0-1.49,-4- -0
+2013,UEFA,Group Stage,Group G,Slovakia,3,13,10,3,4,3,11,10,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,0-4
+2013,UEFA,Group Stage,Group G,Liechtenstein,6,2,10,0,2,8,4,25,-21,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.2,<1.0,<-9
+2013,UEFA,Group Stage,Group H,England,1,22,10,6,4,0,31,4,27,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,>=10
+2013,UEFA,Group Stage,Group H,Ukraine,2,21,10,6,3,1,28,4,24,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.1,>=2,>=10
+2013,UEFA,Group Stage,Group H,Poland,4,13,10,3,4,3,18,12,6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,5-9
+2013,UEFA,Group Stage,Group H,Moldova,5,11,10,3,2,5,12,17,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.1,1.0-1.49,-9- -5
+2013,UEFA,Group Stage,Group H,San Marino,6,0,10,0,0,10,1,54,-53,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2013,UEFA,Group Stage,Group H,Montenegro,3,15,10,4,3,3,18,17,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2013,UEFA,Group Stage,Group I,Spain,1,20,8,6,2,0,14,3,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,>=10
+2013,UEFA,Group Stage,Group I,Finland,3,9,8,2,3,3,5,9,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.125,1.0-1.49,-4- -0
+2013,UEFA,Group Stage,Group I,France,2,17,8,5,2,1,15,6,9,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.125,>=2,5-9
+2013,UEFA,Group Stage,Group I,Belarus,5,4,8,1,1,6,7,16,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.5,<1.0,-9- -5
+2013,UEFA,Group Stage,Group I,Georgia,4,5,8,1,2,5,3,10,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.625,<1.0,-9- -5
+2013,OFC,Group Stage,Round Three,New Zealand,1,18,6,6,0,0,17,2,15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,1,3.0,>=2,>=10
+2013,OFC,Group Stage,Round Three,New Caledonia,2,12,6,4,0,2,17,6,11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,2,2.0,>=2,>=10
+2013,OFC,Group Stage,Round Three,Tahiti,3,3,6,1,0,5,2,12,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,3-4,0.5,<1.0,<-9
+2013,OFC,Group Stage,Round Three,Solomon Islands,4,3,6,1,0,5,5,21,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,3-4,0.5,<1.0,<-9
+2015,AFC,Second Round,Group A,South Korea,4,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.0,<1.0,0-4
+2015,AFC,Second Round,Group A,Iran,2,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,0.0,<1.0,0-4
+2015,AFC,Second Round,Group A,China,1,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,0.0,<1.0,0-4
+2015,AFC,Second Round,Group A,Uzbekistan,6,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,6+,0.0,<1.0,0-4
+2015,AFC,Second Round,Group A,Syria,5,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,0.0,<1.0,0-4
+2015,AFC,Second Round,Group A,Qatar,3,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.0,<1.0,0-4
+2015,AFC,Second Round,Group B,Japan,3,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.0,<1.0,0-4
+2015,AFC,Second Round,Group B,Australia,1,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,0.0,<1.0,0-4
+2015,AFC,Second Round,Group B,Saudi Arabia,4,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.0,<1.0,0-4
+2015,AFC,Second Round,Group B,Iraq,2,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,0.0,<1.0,0-4
+2015,AFC,Second Round,Group B,Thailand,5,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,0.0,<1.0,0-4
+2015,AFC,Second Round,Group B,United Arab Emirates,6,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,6+,0.0,<1.0,0-4
+2015,CONCACAF,Second Round,GROUP A,Mexico,1,16,6,5,1,0,13,1,12,True,Qualifies,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.6666666666666665,>=2,>=10
+2015,CONCACAF,Second Round,GROUP A,Canada,3,7,6,2,1,3,5,8,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2015,CONCACAF,Second Round,GROUP A,Honduras,2,8,6,2,2,2,6,6,0,True,Qualifies,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.3333333333333333,1.0-1.49,0-4
+2015,CONCACAF,Second Round,GROUP A,El Salvador,4,2,6,0,2,4,4,13,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2015,CONCACAF,Second Round,GROUP B,Costa Rica,1,16,6,5,1,0,11,3,8,True,Qualifies,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.6666666666666665,>=2,5-9
+2015,CONCACAF,Second Round,GROUP B,Jamaica,4,4,6,1,1,4,2,10,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2015,CONCACAF,Second Round,GROUP B,Haiti,3,4,6,1,1,4,2,4,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,0.6666666666666666,<1.0,-4- -0
+2015,CONCACAF,Second Round,GROUP B,Panama,2,10,6,3,1,2,7,5,2,True,Qualifies,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.6666666666666667,1.5-1.99,0-4
+2015,CONCACAF,Second Round,GROUP C,United States,1,13,6,4,1,1,20,3,17,True,Qualifies,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.1666666666666665,>=2,>=10
+2015,CONCACAF,Second Round,GROUP C,Trinidad and Tobago,2,11,6,3,2,1,13,9,4,True,Qualifies,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.8333333333333333,1.5-1.99,0-4
+2015,CONCACAF,Second Round,GROUP C,Guatemala,3,10,6,3,1,2,18,11,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.6666666666666667,1.5-1.99,5-9
+2015,CONCACAF,Second Round,GROUP C,St. Vincent and the Grenadines,4,0,6,0,0,6,6,34,-28,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,0.0,<1.0,<-9
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Argentina,3,28,18,7,7,4,19,16,3,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5555555555555556,1.5-1.99,0-4
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Bolivia,9,14,18,4,2,12,16,38,-22,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.7777777777777778,<1.0,<-9
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Brazil,1,41,18,12,5,1,41,11,30,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,1,2.2777777777777777,>=2,>=10
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Chile,6,26,18,8,2,8,26,27,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.4444444444444444,1.0-1.49,-4- -0
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Colombia,4,27,18,7,6,5,21,19,2,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5,1.5-1.99,0-4
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Ecuador,8,20,18,6,2,10,26,29,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.1111111111111112,1.0-1.49,-4- -0
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Paraguay,7,24,18,7,3,8,19,25,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.3333333333333333,1.0-1.49,-9- -5
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Peru,5,26,18,7,5,6,27,26,1,False,Play-off with a nation from Oceania,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,5,1.4444444444444444,1.0-1.49,0-4
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Uruguay,2,31,18,9,4,5,32,20,12,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,2,1.7222222222222223,1.5-1.99,>=10
+2015,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Venezuela,10,12,18,2,6,10,19,35,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.6666666666666666,<1.0,<-9
+2015,UEFA,Group Stage,GROUP A,Netherlands,3,19,10,6,1,3,21,12,9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.9,1.5-1.99,5-9
+2015,UEFA,Group Stage,GROUP A,Bulgaria,4,13,10,4,1,5,14,19,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,-9- -5
+2015,UEFA,Group Stage,GROUP A,Sweden,2,19,10,6,1,3,26,9,17,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9,1.5-1.99,>=10
+2015,UEFA,Group Stage,GROUP A,France,1,23,10,7,2,1,18,6,12,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.3,>=2,>=10
+2015,UEFA,Group Stage,GROUP A,Luxembourg,5,6,10,1,3,6,8,26,-18,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.6,<1.0,<-9
+2015,UEFA,Group Stage,GROUP A,Belarus,6,5,10,1,2,7,6,21,-15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.5,<1.0,<-9
+2015,UEFA,Group Stage,GROUP B,Faroe Islands,4,9,10,2,3,5,4,16,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.9,<1.0,<-9
+2015,UEFA,Group Stage,GROUP B,Latvia,5,7,10,2,1,7,7,18,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.7,<1.0,<-9
+2015,UEFA,Group Stage,GROUP B,Switzerland,2,27,10,9,0,1,23,7,16,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.7,>=2,>=10
+2015,UEFA,Group Stage,GROUP B,Hungary,3,13,10,4,1,5,14,14,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,0-4
+2015,UEFA,Group Stage,GROUP B,Portugal,1,27,10,9,0,1,32,4,28,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.7,>=2,>=10
+2015,UEFA,Group Stage,GROUP B,Andorra,6,4,10,1,1,8,2,23,-21,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.4,<1.0,<-9
+2015,UEFA,Group Stage,GROUP C,Czechia,3,15,10,4,3,3,17,10,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,5-9
+2015,UEFA,Group Stage,GROUP C,Norway,4,13,10,4,1,5,17,16,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,0-4
+2015,UEFA,Group Stage,GROUP C,Germany,1,30,10,10,0,0,43,4,39,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,3.0,>=2,>=10
+2015,UEFA,Group Stage,GROUP C,Azerbaijan,5,10,10,3,1,6,10,19,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.0,1.0-1.49,-9- -5
+2015,UEFA,Group Stage,GROUP C,Northern Ireland,2,19,10,6,1,3,17,6,11,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9,1.5-1.99,>=10
+2015,UEFA,Group Stage,GROUP C,San Marino,6,0,10,0,0,10,2,51,-49,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2015,UEFA,Group Stage,GROUP D,Austria,4,15,10,4,3,3,14,12,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2015,UEFA,Group Stage,GROUP D,Republic of Ireland,2,19,10,5,4,1,12,6,6,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9,1.5-1.99,5-9
+2015,UEFA,Group Stage,GROUP D,Moldova,6,2,10,0,2,8,4,23,-19,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.2,<1.0,<-9
+2015,UEFA,Group Stage,GROUP D,Wales,3,17,10,4,5,1,13,6,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,5-9
+2015,UEFA,Group Stage,GROUP D,Georgia,5,5,10,0,5,5,8,14,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.5,<1.0,-9- -5
+2015,UEFA,Group Stage,GROUP D,Serbia,1,21,10,6,3,1,20,10,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.1,>=2,>=10
+2015,UEFA,Group Stage,GROUP E,Poland,1,25,10,8,1,1,28,14,14,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,>=10
+2015,UEFA,Group Stage,GROUP E,Romania,4,13,10,3,4,3,12,10,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,0-4
+2015,UEFA,Group Stage,GROUP E,Denmark,2,20,10,6,2,2,20,8,12,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2015,UEFA,Group Stage,GROUP E,Armenia,5,7,10,2,1,7,10,26,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.7,<1.0,<-9
+2015,UEFA,Group Stage,GROUP E,Kazakhstan,6,3,10,0,3,7,6,26,-20,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.3,<1.0,<-9
+2015,UEFA,Group Stage,GROUP E,Montenegro,3,16,10,5,1,4,20,12,8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,5-9
+2015,UEFA,Group Stage,GROUP F,England,1,26,10,8,2,0,18,3,15,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6,>=2,>=10
+2015,UEFA,Group Stage,GROUP F,Malta,6,1,10,0,1,9,3,25,-22,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.1,<1.0,<-9
+2015,UEFA,Group Stage,GROUP F,Lithuania,5,6,10,1,3,6,7,20,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.6,<1.0,<-9
+2015,UEFA,Group Stage,GROUP F,Slovakia,2,18,10,6,0,4,17,7,10,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8,1.5-1.99,>=10
+2015,UEFA,Group Stage,GROUP F,Slovenia,4,15,10,4,3,3,12,7,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,5-9
+2015,UEFA,Group Stage,GROUP F,Scotland,3,18,10,5,3,2,17,12,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8,1.5-1.99,5-9
+2015,UEFA,Group Stage,GROUP G,Italy,2,23,10,7,2,1,21,8,13,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.3,>=2,>=10
+2015,UEFA,Group Stage,GROUP G,Spain,1,28,10,9,1,0,36,3,33,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.8,>=2,>=10
+2015,UEFA,Group Stage,GROUP G,Israel,4,12,10,4,0,6,10,15,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,-9- -5
+2015,UEFA,Group Stage,GROUP G,North Macedonia,5,11,10,3,2,5,15,15,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.1,1.0-1.49,0-4
+2015,UEFA,Group Stage,GROUP G,Albania,3,13,10,4,1,5,10,13,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3,1.0-1.49,-4- -0
+2015,UEFA,Group Stage,GROUP G,Liechtenstein,6,0,10,0,0,10,1,39,-38,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2015,UEFA,Group Stage,GROUP H,Estonia,4,11,10,3,2,5,13,19,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.1,1.0-1.49,-9- -5
+2015,UEFA,Group Stage,GROUP H,Cyprus,5,10,10,3,1,6,9,18,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,1.0,1.0-1.49,-9- -5
+2015,UEFA,Group Stage,GROUP H,Bosnia and Herzegovina,3,17,10,5,2,3,24,13,11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,>=10
+2015,UEFA,Group Stage,GROUP H,Greece,2,19,10,5,4,1,17,6,11,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.9,1.5-1.99,>=10
+2015,UEFA,Group Stage,GROUP H,Belgium,1,28,10,9,1,0,43,6,37,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.8,>=2,>=10
+2015,UEFA,Group Stage,GROUP H,Gibraltar,6,0,10,0,0,10,3,47,-44,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2015,UEFA,Group Stage,GROUP I,Ukraine,3,17,10,5,2,3,13,9,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,0-4
+2015,UEFA,Group Stage,GROUP I,Finland,5,9,10,2,3,5,9,13,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.9,<1.0,-4- -0
+2015,UEFA,Group Stage,GROUP I,Turkey,4,15,10,4,3,3,14,13,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2015,UEFA,Group Stage,GROUP I,Iceland,1,22,10,7,1,2,16,7,9,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.2,>=2,5-9
+2015,UEFA,Group Stage,GROUP I,Croatia,2,20,10,6,2,2,15,4,11,False,Play-off for World Cup qualification in November 2013 for eight best,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2015,UEFA,Group Stage,GROUP I,Kosovo,6,1,10,0,1,9,3,24,-21,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.1,<1.0,<-9
+2015,OFC,Group Stage,Group A,Tahiti,3,5,3,1,2,0,7,3,4,True,Qualifies for round 3,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,3-4,1.6666666666666667,1.5-1.99,0-4
+2015,OFC,Group Stage,Group A,Papua New Guinea,1,5,3,1,2,0,11,3,8,True,Qualifies for round 3,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,1,1.6666666666666667,1.5-1.99,5-9
+2015,OFC,Group Stage,Group A,New Caledonia,2,5,3,1,2,0,9,2,7,True,Qualifies for round 3,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,2,1.6666666666666667,1.5-1.99,5-9
+2015,OFC,Group Stage,Group A,Samoa,4,0,3,0,0,3,0,19,-19,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,3-4,0.0,<1.0,<-9
+2015,OFC,Group Stage,Group B,New Zealand,1,9,3,3,0,0,9,1,8,True,Qualifies for round 3,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,1,3.0,>=2,5-9
+2015,OFC,Group Stage,Group B,Solomon Islands,2,3,3,1,0,2,1,2,-1,True,Qualifies for round 3,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,2,1.0,1.0-1.49,-4- -0
+2015,OFC,Group Stage,Group B,Fiji,3,3,3,1,0,2,4,6,-2,True,Qualifies for round 3,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,3-4,1.0,1.0-1.49,-4- -0
+2015,OFC,Group Stage,Group B,Vanuatu,4,3,3,1,0,2,3,8,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,3-4,1.0,1.0-1.49,-9- -5
+2016,AFC,Second Round,Group A,South Korea,2,15,10,4,3,3,11,10,1,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,1.5,1.5-1.99,0-4
+2016,AFC,Second Round,Group A,Iran,1,22,10,6,4,0,10,2,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.2,>=2,5-9
+2016,AFC,Second Round,Group A,China,5,12,10,3,3,4,8,10,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,1.2,1.0-1.49,-4- -0
+2016,AFC,Second Round,Group A,Uzbekistan,4,13,10,4,1,5,6,7,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.3,1.0-1.49,-4- -0
+2016,AFC,Second Round,Group A,Syria,3,13,10,3,4,3,9,8,1,False,Playoff with 3rd in group B,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.3,1.0-1.49,0-4
+2016,AFC,Second Round,Group A,Qatar,6,7,10,2,1,7,8,15,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,6+,0.7,<1.0,-9- -5
+2016,AFC,Second Round,Group B,Japan,1,20,10,6,2,2,17,7,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.0,>=2,>=10
+2016,AFC,Second Round,Group B,Australia,3,19,10,5,4,1,16,11,5,False,Playoff with 3rd in group A,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.9,1.5-1.99,5-9
+2016,AFC,Second Round,Group B,Saudi Arabia,2,19,10,6,1,3,17,10,7,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,1.9,1.5-1.99,5-9
+2016,AFC,Second Round,Group B,Iraq,5,11,10,3,2,5,11,12,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,1.1,1.0-1.49,-4- -0
+2016,AFC,Second Round,Group B,Thailand,6,2,10,0,2,8,6,24,-18,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,6+,0.2,<1.0,<-9
+2016,AFC,Second Round,Group B,United Arab Emirates,4,13,10,4,1,5,10,13,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.3,1.0-1.49,-4- -0
+2016,CAF,Group Stage,Group A,Tunisia,1,14,6,4,2,0,11,4,7,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3333333333333335,>=2,5-9
+2016,CAF,Group Stage,Group A,Libya,3,4,6,1,1,4,4,10,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2016,CAF,Group Stage,Group A,Guinea,4,3,6,1,0,5,6,14,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,-9- -5
+2016,CAF,Group Stage,Group A,Congo DR,2,13,6,4,1,1,14,7,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.1666666666666665,>=2,5-9
+2016,CAF,Group Stage,Group B,Algeria,4,2,6,0,2,4,4,11,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2016,CAF,Group Stage,Group B,Cameroon,3,7,6,1,4,1,7,9,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2016,CAF,Group Stage,Group B,Nigeria,1,14,6,4,2,0,12,4,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3333333333333335,>=2,5-9
+2016,CAF,Group Stage,Group B,Zambia,2,8,6,2,2,2,8,7,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.3333333333333333,1.0-1.49,0-4
+2016,CAF,Group Stage,Group C,Mali,4,4,6,0,4,2,1,9,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2016,CAF,Group Stage,Group C,Morocco,1,12,6,3,3,0,11,0,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.0,>=2,>=10
+2016,CAF,Group Stage,Group C,Gabon,3,6,6,1,3,2,2,7,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-9- -5
+2016,CAF,Group Stage,Group C,Ivory Coast,2,8,6,2,2,2,7,5,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.3333333333333333,1.0-1.49,0-4
+2016,CAF,Group Stage,Group D,South Africa,4,4,6,1,1,4,7,10,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-4- -0
+2016,CAF,Group Stage,Group D,Senegal,1,14,6,4,2,0,10,3,7,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3333333333333335,>=2,5-9
+2016,CAF,Group Stage,Group D,Cape Verde,3,6,6,2,0,4,4,12,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-9- -5
+2016,CAF,Group Stage,Group D,Burkina Faso,2,9,6,2,3,1,10,6,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.5,1.5-1.99,0-4
+2016,CAF,Group Stage,Group E,Egypt,1,13,6,4,1,1,8,4,4,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,0-4
+2016,CAF,Group Stage,Group E,Uganda,2,9,6,2,3,1,3,2,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.5,1.5-1.99,0-4
+2016,CAF,Group Stage,Group E,Congo,4,2,6,0,2,4,5,12,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2016,CAF,Group Stage,Group E,Ghana,3,7,6,1,4,1,7,5,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,0-4
+2016,CONCACAF,Second Round,HEXAGONAL,Mexico,1,21,10,6,3,1,16,7,9,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.1,>=2,5-9
+2016,CONCACAF,Second Round,HEXAGONAL,Costa Rica,2,16,10,4,4,2,14,8,6,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.6,1.5-1.99,5-9
+2016,CONCACAF,Second Round,HEXAGONAL,Honduras,4,13,10,3,4,3,13,19,-6,False,Continental playoff v Asia,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.3,1.0-1.49,-9- -5
+2016,CONCACAF,Second Round,HEXAGONAL,United States,5,12,10,3,3,4,17,13,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,5,1.2,1.0-1.49,0-4
+2016,CONCACAF,Second Round,HEXAGONAL,Trinidad and Tobago,6,6,10,2,0,8,7,19,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,6+,0.6,<1.0,<-9
+2016,CONCACAF,Second Round,HEXAGONAL,Panama,3,13,10,3,4,3,9,10,-1,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.3,1.0-1.49,-4- -0
+2016,OFC,Group Stage,Group A,New Zealand,1,10,4,3,1,0,6,0,6,True,Qualifies for play-off with winner of Group B,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,1,2.5,>=2,5-9
+2016,OFC,Group Stage,Group A,Fiji,3,1,4,0,1,3,3,8,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,3-4,0.25,<1.0,-9- -5
+2016,OFC,Group Stage,Group A,New Caledonia,2,5,4,1,2,1,4,5,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,2,1.25,1.0-1.49,-4- -0
+2016,OFC,Group Stage,Group B,Solomon Islands,1,9,4,3,0,1,6,4,2,True,Qualifies for play-off with winner of Group A,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,1,2.25,>=2,0-4
+2016,OFC,Group Stage,Group B,Tahiti,2,6,4,2,0,2,5,4,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,2,1.5,1.5-1.99,0-4
+2016,OFC,Group Stage,Group B,Papua New Guinea,3,3,4,1,0,3,6,9,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.ofc/standings,3-4,0.75,<1.0,-4- -0
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group A,South Korea,2,23,10,7,2,1,13,3,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,2.3,>=2,>=10
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group A,Iran,1,25,10,8,1,1,15,4,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.5,>=2,>=10
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group A,Iraq,4,9,10,1,6,3,6,12,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.9,<1.0,-9- -5
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group A,United Arab Emirates,3,12,10,3,3,4,7,7,0,False,Playoff with 3rd in group B,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.2,1.0-1.49,0-4
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group B,Japan,2,22,10,7,1,2,12,4,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,2.2,>=2,5-9
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group B,Australia,3,15,10,4,3,3,15,9,6,False,Playoff with 3rd in group A,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.5,1.5-1.99,5-9
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group B,Saudi Arabia,1,23,10,7,2,1,12,6,6,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.3,>=2,5-9
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group B,China,5,6,10,1,3,6,9,19,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,5,0.6,<1.0,<-9
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group B,Oman,4,14,10,4,2,4,11,10,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,1.4,1.0-1.49,0-4
+2019,AFC,Second Round,AFC World Cup Qualifying - Round 3 - Group B,Vietnam,6,4,10,1,1,8,8,19,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,6+,0.4,<1.0,<-9
+2019,CAF,Group Stage,Group A,Algeria,1,14,6,4,2,0,25,4,21,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3333333333333335,>=2,>=10
+2019,CAF,Group Stage,Group A,Burkina Faso,2,12,6,3,3,0,12,4,8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.0,>=2,5-9
+2019,CAF,Group Stage,Group A,Djibouti,4,0,6,0,0,6,4,29,-25,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.0,<1.0,<-9
+2019,CAF,Group Stage,Group A,Niger,3,7,6,2,1,3,13,17,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2019,CAF,Group Stage,Group B,Tunisia,1,13,6,4,1,1,11,2,9,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,5-9
+2019,CAF,Group Stage,Group B,Zambia,3,7,6,2,1,3,8,9,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2019,CAF,Group Stage,Group B,Equatorial Guinea,2,11,6,3,2,1,6,5,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.8333333333333333,1.5-1.99,0-4
+2019,CAF,Group Stage,Group B,Mauritania,4,2,6,0,2,4,2,11,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2019,CAF,Group Stage,Group C,Nigeria,1,13,6,4,1,1,9,3,6,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,5-9
+2019,CAF,Group Stage,Group C,Cape Verde,2,11,6,3,2,1,8,6,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.8333333333333333,1.5-1.99,0-4
+2019,CAF,Group Stage,Group C,Liberia,3,6,6,2,0,4,5,8,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-4- -0
+2019,CAF,Group Stage,Group C,Central African Republic,4,4,6,1,1,4,4,9,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2019,CAF,Group Stage,Group D,Cameroon,1,15,6,5,0,1,12,3,9,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.5,>=2,5-9
+2019,CAF,Group Stage,Group D,Malawi,4,3,6,1,0,5,2,12,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,<-9
+2019,CAF,Group Stage,Group D,Ivory Coast,2,13,6,4,1,1,10,3,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.1666666666666665,>=2,5-9
+2019,CAF,Group Stage,Group D,Mozambique,3,4,6,1,1,4,2,8,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2019,CAF,Group Stage,Group E,Kenya,3,6,6,1,3,2,4,9,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-9- -5
+2019,CAF,Group Stage,Group E,Mali,1,16,6,5,1,0,11,0,11,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.6666666666666665,>=2,>=10
+2019,CAF,Group Stage,Group E,Rwanda,4,1,6,0,1,5,2,9,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.16666666666666666,<1.0,-9- -5
+2019,CAF,Group Stage,Group E,Uganda,2,9,6,2,3,1,3,2,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.5,1.5-1.99,0-4
+2019,CAF,Group Stage,Group F,Angola,4,5,6,1,2,3,6,8,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.8333333333333334,<1.0,-4- -0
+2019,CAF,Group Stage,Group F,Egypt,1,14,6,4,2,0,10,4,6,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3333333333333335,>=2,5-9
+2019,CAF,Group Stage,Group F,Libya,3,7,6,2,1,3,4,7,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2019,CAF,Group Stage,Group F,Gabon,2,7,6,2,1,3,7,8,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.1666666666666667,1.0-1.49,-4- -0
+2019,CAF,Group Stage,Group G,South Africa,2,13,6,4,1,1,6,2,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.1666666666666665,>=2,0-4
+2019,CAF,Group Stage,Group G,Zimbabwe,4,2,6,0,2,4,2,7,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2019,CAF,Group Stage,Group G,Ghana,1,13,6,4,1,1,7,3,4,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.1666666666666665,>=2,0-4
+2019,CAF,Group Stage,Group G,Ethiopia,3,5,6,1,2,3,4,7,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.8333333333333334,<1.0,-4- -0
+2019,CAF,Group Stage,Group H,Senegal,1,16,6,5,1,0,15,4,11,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.6666666666666665,>=2,>=10
+2019,CAF,Group Stage,Group H,Congo,4,3,6,0,3,3,5,10,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,-9- -5
+2019,CAF,Group Stage,Group H,Togo,2,8,6,2,2,2,5,6,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.3333333333333333,1.0-1.49,-4- -0
+2019,CAF,Group Stage,Group H,Namibia,3,5,6,1,2,3,5,10,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.8333333333333334,<1.0,-9- -5
+2019,CAF,Group Stage,Group I,Guinea,3,4,6,0,4,2,5,11,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2019,CAF,Group Stage,Group I,Morocco,1,18,6,6,0,0,20,1,19,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,3.0,>=2,>=10
+2019,CAF,Group Stage,Group I,Sudan,4,3,6,0,3,3,5,12,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.5,<1.0,-9- -5
+2019,CAF,Group Stage,Group I,Guinea-Bissau,2,6,6,1,3,2,5,11,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.0,1.0-1.49,-9- -5
+2019,CAF,Group Stage,Group J,Benin,2,10,6,3,1,2,5,4,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.6666666666666667,1.5-1.99,0-4
+2019,CAF,Group Stage,Group J,Congo DR,1,11,6,3,2,1,9,3,6,True,Qualifies for the next stage,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,1.8333333333333333,1.5-1.99,5-9
+2019,CAF,Group Stage,Group J,Madagascar,4,4,6,1,1,4,4,9,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2019,CAF,Group Stage,Group J,Tanzania,3,8,6,2,2,2,6,8,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.3333333333333333,1.0-1.49,-4- -0
+2020,CONCACAF,Second Round,Third Round,Mexico,2,28,14,8,4,2,17,8,9,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,2.0,>=2,5-9
+2020,CONCACAF,Second Round,Third Round,Canada,1,28,14,8,4,2,23,7,16,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.0,>=2,>=10
+2020,CONCACAF,Second Round,Third Round,Costa Rica,4,25,14,7,4,3,13,8,5,True,Qualifies for Intercontinental playoff,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.7857142857142858,1.5-1.99,5-9
+2020,CONCACAF,Second Round,Third Round,Honduras,8,4,14,0,4,10,7,26,-19,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,6+,0.2857142857142857,<1.0,<-9
+2020,CONCACAF,Second Round,Third Round,United States,3,25,14,7,4,3,21,10,11,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.7857142857142858,1.5-1.99,>=10
+2020,CONCACAF,Second Round,Third Round,Jamaica,6,11,14,2,5,7,12,22,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,6+,0.7857142857142857,<1.0,<-9
+2020,CONCACAF,Second Round,Third Round,El Salvador,7,10,14,2,4,8,8,18,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,6+,0.7142857142857143,<1.0,<-9
+2020,CONCACAF,Second Round,Third Round,Panama,5,21,14,6,3,5,17,19,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,5,1.5,1.5-1.99,-4- -0
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Brazil,1,45,17,14,3,0,40,5,35,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,1,2.6470588235294117,>=2,>=10
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Argentina,2,39,17,11,6,0,27,8,19,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,2,2.2941176470588234,>=2,>=10
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Uruguay,3,28,18,8,4,6,22,22,0,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5555555555555556,1.5-1.99,0-4
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Ecuador,4,26,18,7,5,6,27,19,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.4444444444444444,1.0-1.49,5-9
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Peru,5,24,18,7,3,8,19,22,-3,False,Intercontinental playoff (TBD),https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,5,1.3333333333333333,1.0-1.49,-4- -0
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Colombia,6,23,18,5,8,5,20,19,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.2777777777777777,1.0-1.49,0-4
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Chile,7,19,18,5,4,9,19,26,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.0555555555555556,1.0-1.49,-9- -5
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Paraguay,8,16,18,3,7,8,12,26,-14,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.8888888888888888,<1.0,<-9
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Bolivia,9,15,18,4,3,11,23,42,-19,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.8333333333333334,<1.0,<-9
+2020,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,Qualifying Stage,Venezuela,10,10,18,3,1,14,14,34,-20,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.5555555555555556,<1.0,<-9
+2021,UEFA,Group Stage,Group A,Republic of Ireland,3,9,8,2,3,3,11,8,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.125,1.0-1.49,0-4
+2021,UEFA,Group Stage,Group A,Portugal,2,17,8,5,2,1,17,6,11,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.125,>=2,>=10
+2021,UEFA,Group Stage,Group A,Azerbaijan,5,1,8,0,1,7,5,18,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.125,<1.0,<-9
+2021,UEFA,Group Stage,Group A,Luxembourg,4,9,8,3,0,5,8,18,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.125,1.0-1.49,<-9
+2021,UEFA,Group Stage,Group A,Serbia,1,20,8,6,2,0,18,9,9,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,5-9
+2021,UEFA,Group Stage,Group B,Spain,1,19,8,6,1,1,15,5,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.375,>=2,>=10
+2021,UEFA,Group Stage,Group B,Greece,3,10,8,2,4,2,8,8,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.25,1.0-1.49,0-4
+2021,UEFA,Group Stage,Group B,Sweden,2,15,8,5,0,3,12,6,6,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.875,1.5-1.99,5-9
+2021,UEFA,Group Stage,Group B,Georgia,4,7,8,2,1,5,6,12,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.875,<1.0,-9- -5
+2021,UEFA,Group Stage,Group B,Kosovo,5,5,8,1,2,5,5,15,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.625,<1.0,<-9
+2021,UEFA,Group Stage,Group C,Italy,2,16,8,4,4,0,13,2,11,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2021,UEFA,Group Stage,Group C,Lithuania,5,3,8,1,0,7,4,19,-15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.375,<1.0,<-9
+2021,UEFA,Group Stage,Group C,Bulgaria,4,8,8,2,2,4,6,14,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.0,1.0-1.49,-9- -5
+2021,UEFA,Group Stage,Group C,Switzerland,1,18,8,5,3,0,15,2,13,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.25,>=2,>=10
+2021,UEFA,Group Stage,Group C,Northern Ireland,3,9,8,2,3,3,6,7,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.125,1.0-1.49,-4- -0
+2021,UEFA,Group Stage,Group D,Bosnia and Herzegovina,4,7,8,1,4,3,9,12,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.875,<1.0,-4- -0
+2021,UEFA,Group Stage,Group D,Ukraine,2,12,8,2,6,0,11,8,3,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.5,1.5-1.99,0-4
+2021,UEFA,Group Stage,Group D,Finland,3,11,8,3,2,3,10,10,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.375,1.0-1.49,0-4
+2021,UEFA,Group Stage,Group D,France,1,18,8,5,3,0,18,3,15,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.25,>=2,>=10
+2021,UEFA,Group Stage,Group D,Kazakhstan,5,3,8,0,3,5,5,20,-15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.375,<1.0,<-9
+2021,UEFA,Group Stage,Group E,Estonia,4,4,8,1,1,6,9,21,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.5,<1.0,<-9
+2021,UEFA,Group Stage,Group E,Czechia,3,14,8,4,2,2,14,9,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.75,1.5-1.99,5-9
+2021,UEFA,Group Stage,Group E,Belgium,1,20,8,6,2,0,25,6,19,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,>=10
+2021,UEFA,Group Stage,Group E,Wales,2,15,8,4,3,1,14,9,5,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.875,1.5-1.99,5-9
+2021,UEFA,Group Stage,Group E,Belarus,5,3,8,1,0,7,7,24,-17,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.375,<1.0,<-9
+2021,UEFA,Group Stage,Group F,Faroe Islands,5,4,10,1,1,8,7,23,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.4,<1.0,<-9
+2021,UEFA,Group Stage,Group F,Israel,3,16,10,5,1,4,23,21,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,0-4
+2021,UEFA,Group Stage,Group F,Austria,4,16,10,5,1,4,19,17,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.6,1.5-1.99,0-4
+2021,UEFA,Group Stage,Group F,Denmark,1,27,10,9,0,1,30,3,27,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.7,>=2,>=10
+2021,UEFA,Group Stage,Group F,Moldova,6,1,10,0,1,9,5,30,-25,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.1,<1.0,<-9
+2021,UEFA,Group Stage,Group F,Scotland,2,23,10,7,2,1,17,7,10,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.3,>=2,>=10
+2021,UEFA,Group Stage,Group G,Netherlands,1,23,10,7,2,1,33,8,25,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.3,>=2,>=10
+2021,UEFA,Group Stage,Group G,Latvia,5,9,10,2,3,5,11,14,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.9,<1.0,-4- -0
+2021,UEFA,Group Stage,Group G,Norway,3,18,10,5,3,2,15,8,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8,1.5-1.99,5-9
+2021,UEFA,Group Stage,Group G,Turkey,2,21,10,6,3,1,27,16,11,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.1,>=2,>=10
+2021,UEFA,Group Stage,Group G,Montenegro,4,12,10,3,3,4,14,15,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,-4- -0
+2021,UEFA,Group Stage,Group G,Gibraltar,6,0,10,0,0,10,4,43,-39,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2021,UEFA,Group Stage,Group H,Cyprus,5,5,10,1,2,7,4,21,-17,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.5,<1.0,<-9
+2021,UEFA,Group Stage,Group H,Malta,6,5,10,1,2,7,9,30,-21,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.5,<1.0,<-9
+2021,UEFA,Group Stage,Group H,Russia,2,22,10,7,1,2,19,6,13,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.2,>=2,>=10
+2021,UEFA,Group Stage,Group H,Slovakia,3,14,10,3,5,2,17,10,7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,5-9
+2021,UEFA,Group Stage,Group H,Slovenia,4,14,10,4,2,4,13,12,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.4,1.0-1.49,0-4
+2021,UEFA,Group Stage,Group H,Croatia,1,23,10,7,2,1,21,4,17,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.3,>=2,>=10
+2021,UEFA,Group Stage,Group I,England,1,26,10,8,2,0,39,3,36,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6,>=2,>=10
+2021,UEFA,Group Stage,Group I,Poland,2,20,10,6,2,2,30,11,19,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2021,UEFA,Group Stage,Group I,Hungary,4,17,10,5,2,3,19,13,6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,5-9
+2021,UEFA,Group Stage,Group I,Albania,3,18,10,6,0,4,12,12,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.8,1.5-1.99,0-4
+2021,UEFA,Group Stage,Group I,Andorra,5,6,10,2,0,8,8,24,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.6,<1.0,<-9
+2021,UEFA,Group Stage,Group I,San Marino,6,0,10,0,0,10,1,46,-45,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.0,<1.0,<-9
+2021,UEFA,Group Stage,Group J,North Macedonia,2,18,10,5,3,2,23,11,12,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8,1.5-1.99,>=10
+2021,UEFA,Group Stage,Group J,Iceland,5,9,10,2,3,5,12,18,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.9,<1.0,-9- -5
+2021,UEFA,Group Stage,Group J,Romania,3,17,10,5,2,3,13,8,5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.7,1.5-1.99,5-9
+2021,UEFA,Group Stage,Group J,Germany,1,27,10,9,0,1,36,4,32,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.7,>=2,>=10
+2021,UEFA,Group Stage,Group J,Armenia,4,12,10,3,3,4,9,20,-11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.2,1.0-1.49,<-9
+2021,UEFA,Group Stage,Group J,Liechtenstein,6,1,10,0,1,9,2,34,-32,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,6+,0.1,<1.0,<-9
+2023,AFC,Second Round,Group A,Oman,3,1,2,0,1,1,1,2,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.5,<1.0,-4- -0
+2023,AFC,Second Round,Group A,United Arab Emirates,2,3,2,1,0,1,3,3,0,False,AFC playoff,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,1.5,1.5-1.99,0-4
+2023,AFC,Second Round,Group A,Qatar,1,4,2,1,1,0,2,1,1,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.0,>=2,0-4
+2023,AFC,Second Round,Group B,Saudi Arabia,1,4,2,1,1,0,3,2,1,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,1,2.0,>=2,0-4
+2023,AFC,Second Round,Group B,Iraq,2,4,2,1,1,0,1,0,1,False,AFC playoff,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,2,2.0,>=2,0-4
+2023,AFC,Second Round,Group B,Indonesia,3,0,2,0,0,2,2,4,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.afc/standings,3-4,0.0,<1.0,-4- -0
+2023,CAF,Group Stage,Group A,Egypt,1,26,10,8,2,0,20,2,18,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.6,>=2,>=10
+2023,CAF,Group Stage,Group A,Burkina Faso,2,21,10,6,3,1,23,8,15,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.1,>=2,>=10
+2023,CAF,Group Stage,Group A,Djibouti,6,1,10,0,1,9,5,33,-28,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.1,<1.0,<-9
+2023,CAF,Group Stage,Group A,Ethiopia,5,9,10,2,3,5,9,14,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.9,<1.0,-9- -5
+2023,CAF,Group Stage,Group A,Sierra Leone,3,15,10,4,3,3,12,10,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.5,1.5-1.99,0-4
+2023,CAF,Group Stage,Group A,Guinea-Bissau,4,10,10,2,4,4,8,10,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.0,1.0-1.49,-4- -0
+2023,CAF,Group Stage,Group B,Senegal,1,24,10,7,3,0,22,3,19,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.4,>=2,>=10
+2023,CAF,Group Stage,Group B,Congo DR,2,22,10,7,1,2,15,6,9,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.2,>=2,5-9
+2023,CAF,Group Stage,Group B,Sudan,3,13,10,3,4,3,8,6,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.3,1.0-1.49,0-4
+2023,CAF,Group Stage,Group B,Togo,4,8,10,1,5,4,5,10,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,0.8,<1.0,-9- -5
+2023,CAF,Group Stage,Group B,Mauritania,5,7,10,1,4,5,4,13,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.7,<1.0,-9- -5
+2023,CAF,Group Stage,Group B,South Sudan,6,5,10,0,5,5,3,19,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.5,<1.0,<-9
+2023,CAF,Group Stage,Group C,South Africa,1,18,10,5,3,2,15,9,6,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,1.8,1.5-1.99,5-9
+2023,CAF,Group Stage,Group C,Nigeria,2,17,10,4,5,1,15,8,7,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.7,1.5-1.99,5-9
+2023,CAF,Group Stage,Group C,Benin,3,17,10,5,2,3,12,11,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.7,1.5-1.99,0-4
+2023,CAF,Group Stage,Group C,Rwanda,5,11,10,3,2,5,5,9,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,1.1,1.0-1.49,-4- -0
+2023,CAF,Group Stage,Group C,Zimbabwe,6,5,10,0,5,5,5,12,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.5,<1.0,-9- -5
+2023,CAF,Group Stage,Group C,Lesotho,4,12,10,3,3,4,9,12,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.2,1.0-1.49,-4- -0
+2023,CAF,Group Stage,Group D,Angola,4,12,10,2,6,2,9,8,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.2,1.0-1.49,0-4
+2023,CAF,Group Stage,Group D,Cameroon,2,19,10,5,4,1,17,5,12,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.9,1.5-1.99,>=10
+2023,CAF,Group Stage,Group D,Cape Verde,1,23,10,7,2,1,16,8,8,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.3,>=2,5-9
+2023,CAF,Group Stage,Group D,Libya,3,16,10,4,4,2,12,10,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.6,1.5-1.99,0-4
+2023,CAF,Group Stage,Group D,Mauritius,5,6,10,1,3,6,7,17,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.6,<1.0,<-9
+2023,CAF,Group Stage,Group D,Eswatini,6,3,10,0,3,7,6,19,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.3,<1.0,<-9
+2023,CAF,Group Stage,Group E,Morocco,1,24,8,8,0,0,22,2,20,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,3.0,>=2,>=10
+2023,CAF,Group Stage,Group E,Congo,5,1,8,0,1,7,4,24,-20,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.125,<1.0,<-9
+2023,CAF,Group Stage,Group E,Zambia,4,9,8,3,0,5,10,10,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.125,1.0-1.49,0-4
+2023,CAF,Group Stage,Group E,Eritrea,6,0,0,0,0,0,0,0,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.0,<1.0,0-4
+2023,CAF,Group Stage,Group E,Tanzania,3,10,8,3,1,4,6,7,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.25,1.0-1.49,-4- -0
+2023,CAF,Group Stage,Group E,Niger,2,15,8,5,0,3,11,10,1,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.875,1.5-1.99,0-4
+2023,CAF,Group Stage,Group F,Kenya,4,12,10,3,3,4,18,14,4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.2,1.0-1.49,0-4
+2023,CAF,Group Stage,Group F,Gabon,2,25,10,8,1,1,22,9,13,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,2.5,>=2,>=10
+2023,CAF,Group Stage,Group F,Ivory Coast,1,26,10,8,2,0,25,0,25,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.6,>=2,>=10
+2023,CAF,Group Stage,Group F,Burundi,5,10,10,3,1,6,13,13,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,1.0,1.0-1.49,0-4
+2023,CAF,Group Stage,Group F,Seychelles,6,0,10,0,0,10,2,53,-51,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.0,<1.0,<-9
+2023,CAF,Group Stage,Group F,Gambia,3,13,10,4,1,5,27,18,9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.3,1.0-1.49,5-9
+2023,CAF,Group Stage,Group G,Algeria,1,25,10,8,1,1,24,8,16,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.5,>=2,>=10
+2023,CAF,Group Stage,Group G,Guinea,4,15,10,4,3,3,11,8,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.5,1.5-1.99,0-4
+2023,CAF,Group Stage,Group G,Uganda,2,18,10,6,0,4,14,9,5,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.8,1.5-1.99,5-9
+2023,CAF,Group Stage,Group G,Botswana,5,10,10,3,1,6,12,16,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,1.0,1.0-1.49,-4- -0
+2023,CAF,Group Stage,Group G,Somalia,6,1,10,0,1,9,3,20,-17,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.1,<1.0,<-9
+2023,CAF,Group Stage,Group G,Mozambique,3,18,10,6,0,4,14,17,-3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.8,1.5-1.99,-4- -0
+2023,CAF,Group Stage,Group H,Tunisia,1,28,10,9,1,0,22,0,22,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.8,>=2,>=10
+2023,CAF,Group Stage,Group H,Liberia,3,15,10,4,3,3,13,11,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.5,1.5-1.99,0-4
+2023,CAF,Group Stage,Group H,Malawi,4,13,10,4,1,5,11,10,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.3,1.0-1.49,0-4
+2023,CAF,Group Stage,Group H,Namibia,2,15,10,4,3,3,13,10,3,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.5,1.5-1.99,0-4
+2023,CAF,Group Stage,Group H,Equatorial Guinea,5,11,10,3,2,5,8,15,-7,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,1.1,1.0-1.49,-9- -5
+2023,CAF,Group Stage,Group H,Sao Tome and Principe,6,3,10,1,0,9,5,26,-21,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.3,<1.0,<-9
+2023,CAF,Group Stage,Group I,Mali,3,18,10,5,3,2,17,6,11,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.8,1.5-1.99,>=10
+2023,CAF,Group Stage,Group I,Ghana,1,25,10,8,1,1,23,6,17,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,1,2.5,>=2,>=10
+2023,CAF,Group Stage,Group I,Madagascar,2,19,10,6,1,3,17,12,5,False,Four best runners-up to playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,2,1.9,1.5-1.99,5-9
+2023,CAF,Group Stage,Group I,Comoros,4,15,10,5,0,5,12,13,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,3-4,1.5,1.5-1.99,-4- -0
+2023,CAF,Group Stage,Group I,Chad,6,1,10,0,1,9,5,24,-19,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,6+,0.1,<1.0,<-9
+2023,CAF,Group Stage,Group I,Central African Republic,5,8,10,2,2,6,11,24,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.caf/standings,5,0.8,<1.0,<-9
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Argentina,1,38,18,12,2,4,31,10,21,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,1,2.111111111111111,>=2,>=10
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Ecuador,2,29,18,8,8,2,14,5,9,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,2,1.6111111111111112,1.5-1.99,5-9
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Colombia,3,28,18,7,7,4,28,18,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5555555555555556,1.5-1.99,>=10
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Uruguay,4,28,18,7,7,4,22,12,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,3-4,1.5555555555555556,1.5-1.99,>=10
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Brazil,5,28,18,8,4,6,24,17,7,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,5,1.5555555555555556,1.5-1.99,5-9
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Paraguay,6,28,18,7,7,4,14,10,4,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.5555555555555556,1.5-1.99,0-4
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Bolivia,7,20,18,6,2,10,17,35,-18,False,Inter-confederation playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.1111111111111112,1.0-1.49,<-9
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Venezuela,8,18,18,4,6,8,18,28,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,1.0,1.0-1.49,<-9
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Peru,9,12,18,2,6,10,6,21,-15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.6666666666666666,<1.0,<-9
+2023,CONMEBOL,2026 World Cup Qualifying - CONMEBOL,2026,Chile,10,11,18,2,5,11,9,27,-18,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.conmebol/standings,6+,0.6111111111111112,<1.0,<-9
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group A,El Salvador,4,3,6,1,0,5,2,11,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,0.5,<1.0,-9- -5
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group A,Guatemala,3,8,6,2,2,2,8,7,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.3333333333333333,1.0-1.49,0-4
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group A,Panama,1,12,6,3,3,0,9,4,5,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.0,>=2,5-9
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group A,Suriname,2,9,6,2,3,1,9,6,3,False,Possible inter-confederation playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.5,1.5-1.99,0-4
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group B,Jamaica,2,11,6,3,2,1,11,3,8,False,Possible inter-confederation playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.8333333333333333,1.5-1.99,5-9
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group B,Trinidad and Tobago,3,7,6,1,4,1,7,6,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.1666666666666667,1.0-1.49,0-4
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group B,Bermuda,4,1,6,0,1,5,4,23,-19,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,0.16666666666666666,<1.0,<-9
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group B,Curacao,1,12,6,3,3,0,13,3,10,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,2.0,>=2,>=10
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group C,Costa Rica,3,7,6,1,4,1,8,6,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,1.1666666666666667,1.0-1.49,0-4
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group C,Honduras,2,9,6,2,3,1,5,2,3,False,Possible inter-confederation playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,2,1.5,1.5-1.99,0-4
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group C,Haiti,1,11,6,3,2,1,9,6,3,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,1,1.8333333333333333,1.5-1.99,0-4
+2024,CONCACAF,Second Round,2026 FIFA World Cup¤ CONCACAF Qualification - Group C,Nicaragua,4,4,6,1,1,4,4,12,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.concacaf/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2025,UEFA,Group Stage,Group A,Slovakia,2,12,6,4,0,2,6,8,-2,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,-4- -0
+2025,UEFA,Group Stage,Group A,Germany,1,15,6,5,0,1,16,3,13,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,>=10
+2025,UEFA,Group Stage,Group A,Luxembourg,4,0,6,0,0,6,1,13,-12,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.0,<1.0,<-9
+2025,UEFA,Group Stage,Group A,Northern Ireland,3,9,6,3,0,3,7,6,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2025,UEFA,Group Stage,Group B,Sweden,4,2,6,0,2,4,4,12,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.3333333333333333,<1.0,-9- -5
+2025,UEFA,Group Stage,Group B,Slovenia,3,4,6,0,4,2,3,8,-5,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.6666666666666666,<1.0,-9- -5
+2025,UEFA,Group Stage,Group B,Switzerland,1,14,6,4,2,0,14,2,12,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.3333333333333335,>=2,>=10
+2025,UEFA,Group Stage,Group B,Kosovo,2,11,6,3,2,1,6,5,1,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8333333333333333,1.5-1.99,0-4
+2025,UEFA,Group Stage,Group C,Greece,3,7,6,2,1,3,10,12,-2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.1666666666666667,1.0-1.49,-4- -0
+2025,UEFA,Group Stage,Group C,Denmark,2,11,6,3,2,1,16,7,9,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.8333333333333333,1.5-1.99,5-9
+2025,UEFA,Group Stage,Group C,Scotland,1,13,6,4,1,1,13,7,6,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.1666666666666665,>=2,5-9
+2025,UEFA,Group Stage,Group C,Belarus,4,2,6,0,2,4,4,17,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.3333333333333333,<1.0,<-9
+2025,UEFA,Group Stage,Group D,Ukraine,2,10,6,3,1,2,10,11,-1,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.6666666666666667,1.5-1.99,-4- -0
+2025,UEFA,Group Stage,Group D,Iceland,3,7,6,2,1,3,13,11,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.1666666666666667,1.0-1.49,0-4
+2025,UEFA,Group Stage,Group D,France,1,16,6,5,1,0,16,4,12,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6666666666666665,>=2,>=10
+2025,UEFA,Group Stage,Group D,Azerbaijan,4,1,6,0,1,5,3,16,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.16666666666666666,<1.0,<-9
+2025,UEFA,Group Stage,Group E,Spain,1,16,6,5,1,0,21,2,19,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.6666666666666665,>=2,>=10
+2025,UEFA,Group Stage,Group E,Bulgaria,4,3,6,1,0,5,3,19,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.5,<1.0,<-9
+2025,UEFA,Group Stage,Group E,Turkey,2,13,6,4,1,1,17,12,5,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.1666666666666665,>=2,5-9
+2025,UEFA,Group Stage,Group E,Georgia,3,3,6,1,0,5,7,15,-8,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.5,<1.0,-9- -5
+2025,UEFA,Group Stage,Group F,Republic of Ireland,2,10,6,3,1,2,9,7,2,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.6666666666666667,1.5-1.99,0-4
+2025,UEFA,Group Stage,Group F,Hungary,3,8,6,2,2,2,11,10,1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.3333333333333333,1.0-1.49,0-4
+2025,UEFA,Group Stage,Group F,Portugal,1,13,6,4,1,1,20,7,13,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.1666666666666665,>=2,>=10
+2025,UEFA,Group Stage,Group F,Armenia,4,3,6,1,0,5,3,19,-16,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.5,<1.0,<-9
+2025,UEFA,Group Stage,Group G,Netherlands,1,20,8,6,2,0,27,4,23,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.5,>=2,>=10
+2025,UEFA,Group Stage,Group G,Malta,4,5,8,1,2,5,4,19,-15,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.625,<1.0,<-9
+2025,UEFA,Group Stage,Group G,Finland,3,10,8,3,1,4,8,14,-6,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.25,1.0-1.49,-9- -5
+2025,UEFA,Group Stage,Group G,Lithuania,5,3,8,0,3,5,6,15,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.375,<1.0,-9- -5
+2025,UEFA,Group Stage,Group G,Poland,2,17,8,5,2,1,14,7,7,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.125,>=2,5-9
+2025,UEFA,Group Stage,Group H,Cyprus,4,8,8,2,2,4,11,11,0,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.0,1.0-1.49,0-4
+2025,UEFA,Group Stage,Group H,Bosnia and Herzegovina,2,17,8,5,2,1,17,7,10,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.125,>=2,>=10
+2025,UEFA,Group Stage,Group H,Romania,3,13,8,4,1,3,19,10,9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.625,1.5-1.99,5-9
+2025,UEFA,Group Stage,Group H,Austria,1,19,8,6,1,1,22,4,18,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.375,>=2,>=10
+2025,UEFA,Group Stage,Group H,San Marino,5,0,8,0,0,8,2,39,-37,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.0,<1.0,<-9
+2025,UEFA,Group Stage,Group I,Italy,2,18,8,6,0,2,21,12,9,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.25,>=2,5-9
+2025,UEFA,Group Stage,Group I,Estonia,4,4,8,1,1,6,8,21,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.5,<1.0,<-9
+2025,UEFA,Group Stage,Group I,Israel,3,12,8,4,0,4,19,20,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,-4- -0
+2025,UEFA,Group Stage,Group I,Norway,1,24,8,8,0,0,37,5,32,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,3.0,>=2,>=10
+2025,UEFA,Group Stage,Group I,Moldova,5,1,8,0,1,7,5,32,-27,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.125,<1.0,<-9
+2025,UEFA,Group Stage,Group J,Belgium,1,18,8,5,3,0,29,7,22,True,Qualifies for World Cup,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.25,>=2,>=10
+2025,UEFA,Group Stage,Group J,North Macedonia,3,13,8,3,4,1,13,10,3,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.625,1.5-1.99,0-4
+2025,UEFA,Group Stage,Group J,Wales,2,16,8,5,1,2,21,11,10,True,Qualifies for World Cup playoffs,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2025,UEFA,Group Stage,Group J,Liechtenstein,5,0,8,0,0,8,0,31,-31,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.0,<1.0,<-9
+2025,UEFA,Group Stage,Group J,Kazakhstan,4,8,8,2,2,4,9,13,-4,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.0,1.0-1.49,-4- -0
+2025,UEFA,Group Stage,Group K,England,1,24,8,8,0,0,22,0,22,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,3.0,>=2,>=10
+2025,UEFA,Group Stage,Group K,Latvia,4,5,8,1,2,5,5,15,-10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,0.625,<1.0,<-9
+2025,UEFA,Group Stage,Group K,Albania,2,14,8,4,2,2,7,5,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,1.75,1.5-1.99,0-4
+2025,UEFA,Group Stage,Group K,Andorra,5,1,8,0,1,7,3,16,-13,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.125,<1.0,<-9
+2025,UEFA,Group Stage,Group K,Serbia,3,13,8,4,1,3,9,10,-1,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.625,1.5-1.99,-4- -0
+2025,UEFA,Group Stage,Group L,Faroe Islands,3,12,8,4,0,4,11,9,2,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.5,1.5-1.99,0-4
+2025,UEFA,Group Stage,Group L,Czechia,2,16,8,5,1,2,18,8,10,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,2,2.0,>=2,>=10
+2025,UEFA,Group Stage,Group L,Croatia,1,22,8,7,1,0,26,4,22,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,1,2.75,>=2,>=10
+2025,UEFA,Group Stage,Group L,Montenegro,4,9,8,3,0,5,8,17,-9,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,3-4,1.125,1.0-1.49,-9- -5
+2025,UEFA,Group Stage,Group L,Gibraltar,5,0,8,0,0,8,3,28,-25,False,,https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.worldq.uefa/standings,5,0.0,<1.0,<-9
